@@ -4,15 +4,15 @@ tags:
 - tag1
 - tag2
 ---
-<h1>Project Name</h1>
-
-<h2>Team #</h2>
-
-<h4>Arizona State University
-
-Class Information
-Professor Name</h4>
+<center>
+<font size="8">Project Name<br>
+<font size="5">Team ###<br>
+<font size="4">Arizona State University<br>
+**EGR 304**<br>
+Professor Name<br>
+  
 **Submission: month, DD, YYYY**
+</center>
 
 ## Team Introduction
 
