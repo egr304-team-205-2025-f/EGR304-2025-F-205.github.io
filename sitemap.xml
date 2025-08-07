@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/Appen-Team%20Org/</loc>
+         <lastmod>2025-08-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/another-subfile/</loc>
          <lastmod>2025-08-07</lastmod>
          <changefreq>daily</changefreq>
@@ -32,11 +37,6 @@
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/esp-32-table/</loc>
-         <lastmod>2025-08-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/second-page/</loc>
          <lastmod>2025-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
