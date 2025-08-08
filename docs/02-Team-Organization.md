@@ -5,57 +5,12 @@ tags:
 - tag2
 ---
 
-## Introduction
+## Team Charter
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+From the ... which can be reviewed in [Appendix Team Orga]([https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/Appen-Team-Org), the team's charter is:
 
-## Research Question
+> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-
-## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-
-<figure>
-    <img src="../image/innovation_showcase_Sp-2025.jpg">
-    <figcaption><strong>Figure 2:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</figcaption>
-</figure>
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
+## Product Mission Statement
 
 
-## References
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
