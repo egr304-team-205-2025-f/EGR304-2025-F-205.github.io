@@ -53,7 +53,7 @@ _**Appendix Table 2**: Weekly Schedule_
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
-| ----- | ------ |
+| ----- | :------: |
 | Bill | B |
 | Mary | M |
 | Zane | Z |
