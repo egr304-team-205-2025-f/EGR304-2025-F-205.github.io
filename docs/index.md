@@ -7,8 +7,8 @@ tags:
 <center>
 <font size="8">Project Name<br>
 <font size="5">Team ###<br>
-**Submission: month, DD, YYYY**
-  Semester and Year
+**Submission: month, DD, YYYY**<br>
+Semester and Year
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Professor Name<br>
@@ -17,9 +17,9 @@ Professor Name<br>
 </center>
 
 ## Team Introduction
-
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest.
+> This will be updated as part of the preparation for the External Review
+> * This needs to be updated to reflect a team introduction
+> * Content should also help an unfamiliar reader navigate to areas of interest.
 
 
 ## Team Members Datasheet links
