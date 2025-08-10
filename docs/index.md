@@ -8,7 +8,7 @@ tags:
 <font size="8">Project Name<br>
 <font size="5">Team ###<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year
+Semester and Year<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Professor Name<br>
