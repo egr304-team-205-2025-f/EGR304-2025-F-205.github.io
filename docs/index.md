@@ -7,11 +7,13 @@ tags:
 <center>
 <font size="8">Project Name<br>
 <font size="5">Team ###<br>
+**Submission: month, DD, YYYY**
+  Semester and Year
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Professor Name<br>
   
-**Submission: month, DD, YYYY**
+
 </center>
 
 ## Team Introduction
