@@ -13,6 +13,6 @@ From the ... which can be reviewed in ["Appendix: Team Organization"](https://em
 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statemnet is:
+Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
 
  > "Google's mission is to organize the world's information and make it universally accessible and useful."
