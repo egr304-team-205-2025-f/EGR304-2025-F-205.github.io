@@ -17,9 +17,9 @@ Professor Name<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review
-> * This needs to be updated to reflect a team introduction
-> * Content should also help an unfamiliar reader navigate to areas of interest.
+> This will be updated as part of the preparation for the External Review.
+>  * This needs to be updated to reflect a team introduction.
+>  * Content should also help an unfamiliar reader navigate to areas of interest.
 
 
 ## Team Members Datasheet links
