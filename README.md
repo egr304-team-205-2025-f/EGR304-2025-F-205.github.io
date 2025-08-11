@@ -1,8 +1,8 @@
 This is a template to help you get started with the team's GitHub Report. Use this template to help guide your team through the initial setup process.
 
 You will need to add additional files per team assignment.
-# Remove ALL ITEMS not current in the Appendix before submitting report Check Points!
-The four items currently there are placeholders and could serve as possible resources.
+# Remove ALL unused ITEMS currently in the Appendix before submitting the report for the External review!
+The three items currently there are placeholders and could serve as possible resources.
 
 ## Tips if the template does not initially publish/update correctly:
 If, after checking these [settings](https://embedded-systems-design.github.io/fork-report-website/#settings-to-check/), you often find that renaming the workflow file initiates builds (for whatever reason).
