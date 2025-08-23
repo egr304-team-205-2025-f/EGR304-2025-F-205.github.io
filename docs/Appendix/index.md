@@ -1,5 +1,5 @@
 ---
-title: This is the index to a subfolder
+title: Appendix - Main Page
 ---
 
-Things to discuss
+The Appendix is where supporting information goes that is not in the main body.
