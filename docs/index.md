@@ -7,7 +7,8 @@ tags:
 <center>
 <font size="8">Organization, Charter, and Repository<br>
 <font size="5">Team 205<br>
-**Submission: month, DD, YYYY**<br>
+**Start: September, 04, 2025**<br>
+**Submission: September, 05, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
