@@ -31,27 +31,3 @@ Kevin Nickols<br>
 | Sam Burns              | [suburns.github.io](https://suburns05.github.io/suburns.github.io/) |
 | Arianna Lazaritt               | [alazaritt.github.io](https://alazaritt.github.io/alazaritt.github.io/) |
 | Sam Mangus                | link |
-
-
-## Team Goals
-
-
-## Mission Statement
-
-
-## Communication Channels & Procedures
-
-
-## Meeting Schedule & Coordination
-
-
-## Roles & Responsibilities
-
-
-## Team Coordination & Accountability
-
-
-## Conflict Recognition & Resolution
-
-
-## Signatures
