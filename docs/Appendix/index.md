@@ -30,7 +30,11 @@ For project documents and collaborative work, we will use Google Docs to ensure 
 
 
 ## Conflict Recognition & Resolution
+Our team understands that conflict is a common aspect of collaboration. Instead of avoiding disagreements, we will recognize and address them openly and respectfully. 
 
+In order to prevent unnecessary conflict, we will establish clear roles and responsibilities from the beginning and do regular check-ins to ensure tasks are balanced. This will help avoid conflicts of interest, which often occur when one person takes on too much or when responsibilities are not clearly defined.
+
+If conflict arises, we will first try to resolve it within the team by discussing the issue among ourselves. Conflicts will be escalated if a team member is consistently unresponsive or failing to meet responsibilities. If the conflict is so severe that it begins to impact the project’s progress, will we escalate the issue to the instructor. In such cases, our designated point of contact will provide a clear summary of the situation and what we’ve already done to try to resolve it.
 
 ## Signatures
 
