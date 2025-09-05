@@ -27,7 +27,7 @@ Kevin Nickols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Dario Solis Alvarez            | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Dario Solis Alvarez            | [dar-sol-alv.github.io](https://dar-sol-alv.github.io/) |
 | Sam Burns              | [suburns.github.io](https://suburns05.github.io/suburns.github.io/) |
 | Arianna Lazaritt               | [alazaritt.github.io](https://alazaritt.github.io/alazaritt.github.io/) |
 | Sam Mangus                | link |
