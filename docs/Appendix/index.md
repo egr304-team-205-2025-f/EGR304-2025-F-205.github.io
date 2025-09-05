@@ -10,8 +10,8 @@ The Appendix is where supporting information goes that is not in the main body.
 
 Below is a table displayed the team's preffered communication methods.
 | **Name**        | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
-| ---------------------- | ----------------------- | ----------------------- | ----------------------- |
-| Dario Solis Alvarez            |  | |  | |  |
+| ---------------------- | ----------------------- | ------------------------------- | ------------------------------ |
+| Dario Solis Alvarez    | Instagram Group Chat    | Text                            | Call                           |
 | Sam Burns              |  | |  | |  |
 | Arianna Lazaritt               |  | |  | |  |
 | Sam Mangus                |  | |  | |  |
