@@ -12,9 +12,9 @@ Below is a table displayed the team's preffered communication methods.
 | **Name**        | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | ---------------------- | ----------------------- | ------------------------------- | ------------------------------ |
 | Dario Solis Alvarez    | Instagram Group Chat    | Text                            | Call                           |
-| Sam Burns              | ??? | | ??? | | ??? |
-| Arianna Lazaritt       | Instagram group chat | | Text | | Email |
-| Sam Mangus             | ??? | | ??? | | ??? |
+| Sam Burns              | ???                     | ???                             |  ??? |
+| Arianna Lazaritt       | Instagram group chat    | Text                            | Email |
+| Sam Mangus             | ???                     | ???                             | ??? |
 
 
 Our team will primarily communicate via a group chat on Instagram. This allows for asynchronous discussion and is convenient for quick check-ins, reminders, and general coordination. ???? will be responsible for all instructor correspondence. This includes sending emails in terms of group-specific questions, and any responses or feedback will be relayed back to the team group chat by the end of the day.
