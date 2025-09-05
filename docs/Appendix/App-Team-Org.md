@@ -15,7 +15,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Dario Solis Alvarez |  Instagram Group Chat | Text | Call |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
@@ -31,30 +31,30 @@ Based on the information provided on in the "Team Member Communication Modes," t
 
 ## Meeting Schedule
 
-_**Appendix Table 2**: Weekly Schedule_
+_**Appendix Table 2**: Weekly Availability_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 9:00 AM | - | F | D, M | - | M | - | - |
+| 10:00 AM | - | - | D, M | D | D, M | - | - |
+| 11:00 AM | - | - | D, M | D | D, M | - | - |
+| 12:00 PM | Z | Z | D, M | - | D, M | - | - |
+| 1:00 PM | Z, F | - | D, M | - | D, M | - | - |
+| 2:00 PM | Z, F | - | D, M | - | D, M | - | - |
+| 3:00 PM | Z | - | D, M | D | D, M | - | - |
+| 4:00 PM | - | - | D, M | D | D, M | - | - |
+| 5:00 PM | - | - | D, M | D | D, M | - | - |
+| 6:00 PM | - | - | D, M | D | D, M | - | - |
+| 7:00 PM | - | - | D, M | D | D, M | - | - |
+| 8:00 PM | - | - | D, M | D | D, M | - | - |
+| 9:00 PM | - | - | D, M | D | D, M | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
+| Dario | D |
 | Mary | M |
 | Zane | Z |
 | Felicity | F |
@@ -85,5 +85,5 @@ Need to add content!!
 
 ## Signatures
 
-Need to add content!!
+_Dario Solis Alvarez_ 
 
