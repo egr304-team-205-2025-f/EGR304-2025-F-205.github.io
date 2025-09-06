@@ -18,9 +18,8 @@ Kevin Nickols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+
+This team was formed in the fall semester of EGR 304 2025. Each member worked on various areas of setting up this website. Please refer to our [appendix](https://egr304-team-205-2025-f.github.io/EGR304-2025-F-205.github.io/Appendix/App-Team-Org/) to further see how our team defines our selves.
 
 
 ## Team Members Datasheet links
