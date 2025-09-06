@@ -114,4 +114,4 @@ If conflict arises, we will first try to resolve it within the team by discussin
 
 _Dario Solis Alvarez_ 
 _Arianna Lazaritt_ 
-
+_Sam Burns_
