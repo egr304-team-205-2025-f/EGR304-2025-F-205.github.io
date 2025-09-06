@@ -26,7 +26,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Dario Solis Alvarez |  Instagram Group Chat | Text | Call |
 |Arianna Lazaritt |  Instagram group chat | Text | Email |
 |Sam Burns |  Instagram Group chat |  Text | Email |
-|Member 4 |  ? | ? | ? |
+|Sam Mangus |  Instagram group chat | Text | Email |
 
 ### Main Method for Group Communication
 
