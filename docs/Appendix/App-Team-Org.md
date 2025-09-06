@@ -17,12 +17,12 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Dario Solis Alvarez |  Instagram Group Chat | Text | Call |
 |Arianna Lazaritt |  Instagram group chat | Text | Email |
-|Member 3 |  ? | ? | ? |
+|Sam Burns |  Instagram Group chat |  Text | Email |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the groups primary method of communication...
+The main method our team will comunicate will be through the Instagram group chat.
  
 ## Communication Procedures
 
@@ -41,15 +41,15 @@ _**Appendix Table 2**: Weekly Availability_
 | 10:00 AM | - | A | D | D, A | D | - | - |
 | 11:00 AM | - | A | D | D, A | D | A | - |
 | 12:00 PM | Z | A | D | A | D | A | - |
-| 1:00 PM | Z, F | - | D, A | - | D, A | A | - |
-| 2:00 PM | Z, F | - | D, A | - | D, A | A | - |
-| 3:00 PM | Z | - | D, A | D | D, A | A | - |
-| 4:00 PM | - | - | D, A | D | D, A | A | - |
-| 5:00 PM | - | - | D, A | D | D, A | A | - |
-| 6:00 PM | - | - | D, A | D | D, A | A | - |
-| 7:00 PM | - | - | D, A | D | D, A | A | - |
-| 8:00 PM | - | - | D, A | D | D, A | A | - |
-| 9:00 PM | - | - | D, A | D | D, A | A | - |
+| 1:00 PM | Z, F | - | D, A, SB | - | D, A, SB | A | - |
+| 2:00 PM | Z, F | - | D, A, SB | - | D, A, SB | A | - |
+| 3:00 PM | Z | - | D, A, SB | D | D, A, SB | A | - |
+| 4:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
+| 5:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
+| 6:00 PM | - | SB | D, A, SB | D, SB | D, A, SB | A | - |
+| 7:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
+| 8:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
+| 9:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -59,6 +59,7 @@ _**Table Legend for Appendix Table 2**_
 | Arianna | A |
 | Zane | Z |
 | Felicity | F |
+| Sam Burns | SB|
 
 
 ## Meeting Coordination
