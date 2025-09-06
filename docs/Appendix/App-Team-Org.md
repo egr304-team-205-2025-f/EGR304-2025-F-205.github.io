@@ -78,10 +78,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader <br> Dario Solis Alvarez    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder <br> Sam Burns | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader <br> Sam Mangus | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor <br> Arianna Lazaritt  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Meeting leader <br> **_Dario Solis Alvarez_**    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder <br> **_Sam Burns_** | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader <br> **_Sam Mangus_** | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor <br> **_Arianna Lazaritt_**  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 
 
