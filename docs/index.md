@@ -29,4 +29,4 @@ This team was formed in the fall semester of EGR 304 2025. Each member worked on
 | Dario Solis Alvarez            | [dar-sol-alv.github.io](https://dar-sol-alv.github.io/) |
 | Sam Burns              | [suburns.github.io](https://suburns05.github.io/suburns.github.io/) |
 | Arianna Lazaritt               | [alazaritt.github.io](https://alazaritt.github.io/alazaritt.github.io/) |
-| Sam Mangus                | link |
+| Sam Mangus                | [SamMangus.github.io](https://SamMangus.github.io/) |
