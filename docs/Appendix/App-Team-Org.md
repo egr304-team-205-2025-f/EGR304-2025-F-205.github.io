@@ -7,11 +7,9 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
-
 1.As a team we plan to complete our assignemnts in a timely manner
 
-2.As a team we plan to carry eachothers weight at verious times when personal matters arise
+2.As a team we plan to carry eachothers weight at various times when personal matters arise
 
 3.As a team we plan to compartmentalize the assignments to share the load
 
@@ -36,7 +34,7 @@ The main method our team will comunicate will be through the Instagram group cha
  
 ## Communication Procedures
 
-Our team will primarily communicate via a group chat on Instagram. This allows for asynchronous discussion and is convenient for quick check-ins, reminders, and general coordination. ???? will be responsible for all instructor correspondence. This includes sending emails in terms of group-specific questions, and any responses or feedback will be relayed back to the team group chat by the end of the day.
+Our team will primarily communicate via a group chat on Instagram. This allows for asynchronous discussion and is convenient for quick check-ins, reminders, and general coordination. Arianna will be responsible for all instructor correspondence. This includes sending emails in terms of group-specific questions, and any responses or feedback will be relayed back to the team group chat by the end of the day.
 
 For project documents and collaborative work, we will use Google Docs to ensure that all work is easily accessible and organized.
 
@@ -47,13 +45,13 @@ _**Appendix Table 2**: Weekly Availability_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | - | F | D | - | - | - | - |
+| 9:00 AM | - | - | D | - | - | - | - |
 | 10:00 AM | - | A | D | D, A | D | - | - |
 | 11:00 AM | - | A | D | D, A | D | A | - |
-| 12:00 PM | Z | A | D | A | D | A | - |
-| 1:00 PM | Z, F | - | D, A, SB | - | D, A, SB | A | - |
-| 2:00 PM | Z, F | - | D, A, SB | - | D, A, SB | A | - |
-| 3:00 PM | Z | - | D, A, SB | D | D, A, SB | A | - |
+| 12:00 PM | - | A | D | A | D | A | - |
+| 1:00 PM | - | - | D, A, SB | - | D, A, SB | A | - |
+| 2:00 PM | - | - | D, A, SB | - | D, A, SB | A | - |
+| 3:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
 | 4:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
 | 5:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
 | 6:00 PM | - | SB | D, A, SB | D, SB | D, A, SB | A | - |
@@ -67,8 +65,6 @@ _**Table Legend for Appendix Table 2**_
 | ----- | :------: |
 | Dario | D |
 | Arianna | A |
-| Zane | Z |
-| Felicity | F |
 | Sam Burns | SB|
 
 
@@ -113,5 +109,7 @@ If conflict arises, we will first try to resolve it within the team by discussin
 ## Signatures
 
 _Dario Solis Alvarez_ 
+
 _Arianna Lazaritt_ 
+
 _Sam Burns_
