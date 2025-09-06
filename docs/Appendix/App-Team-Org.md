@@ -70,10 +70,7 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+Our team will use a shared online calendar to schedule meetings and send automated reminders. Any changes or additions to meeting times will be discussed in our group chat and before updating the calendar. We prefer virtual meetings for convenience, but in-person meetings can be arranged if needed. To stay organized, we’ll share agendas beforehand, assign someone to take notes, and ensure meetings start and end on time. We will meet weekly on Tuesdays at 6pm.
 
 ## Roles & Responsibilities
 
