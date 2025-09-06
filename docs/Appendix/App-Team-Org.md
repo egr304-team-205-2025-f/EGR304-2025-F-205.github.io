@@ -15,7 +15,7 @@ tags:
 
 4.As a team we plan to be in open cominication to ensure that we complete the full assignment
 
-5.As a team we plan to deliver quality work that doesn't simply hit the minimum standards
+5.As a team we plan to produce a device with human-friendly functionality
 
 ## Communication Channels
 
