@@ -102,4 +102,5 @@ If conflict arises, we will first try to resolve it within the team by discussin
 ## Signatures
 
 _Dario Solis Alvarez_ 
+_Arianna Lazaritt_ 
 
