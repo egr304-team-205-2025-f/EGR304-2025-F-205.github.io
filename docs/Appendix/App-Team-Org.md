@@ -46,27 +46,27 @@ _**Appendix Table 2**: Weekly Availability_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | D | - | - | - | - |
-| 10:00 AM | - | A | D | D, A | D | - | - |
-| 11:00 AM | - | A | D | D, A | D | A | - |
-| 12:00 PM | - | A | D | A | D | A | - |
-| 1:00 PM | - | - | D, A, SB | - | D, A, SB | A | - |
-| 2:00 PM | - | - | D, A, SB | - | D, A, SB | A | - |
-| 3:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
-| 4:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
-| 5:00 PM | - | - | D, A, SB | D | D, A, SB | A | - |
-| 6:00 PM | - | SB | D, A, SB | D, SB | D, A, SB | A | - |
-| 7:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
+| 10:00 AM | - | A, S | D | D, A | D | - | - |
+| 11:00 AM | - | A, S | D | D, A | D | A | - |
+| 12:00 PM | - | A, S | D | A, S | D | A | - |
+| 1:00 PM | - | - | D, A, SB, S | - | D, A, SB, S | A | - |
+| 2:00 PM | - | - | D, A, SB, S | - | D, A, SB, S | A | - |
+| 3:00 PM | - | - | D, A, SB, S | D, S | D, A, SB, S | A | - |
+| 4:00 PM | - | - | D, A, SB, S | D, S | D, A, SB, S | A | - |
+| 5:00 PM | - | - | D, A, SB, S | D, S | D, A, SB, S | A | - |
+| 6:00 PM | - | SB, S | D, A, SB | D, SB | D, A, SB, S | A | - |
+| 7:00 PM | - | SB, S | D, A, SB | D, SB |  D, A, SB, S | A | - |
 | 8:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
 | 9:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
-| ----- | :------: |
+|  | :------: |
 | Dario | D |
 | Arianna | A |
 | Sam Burns | SB|
-
+| Sam Mangus | S |
 
 ## Meeting Coordination
 
@@ -110,3 +110,5 @@ _Dario Solis Alvarez_
 _Arianna Lazaritt_ 
 
 _Sam Burns_
+
+_Sam Mangus_
