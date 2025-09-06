@@ -9,6 +9,12 @@ tags:
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
 
+1.As a team we plan to complete our assignemnts in a timely manner
+2.As a team we plan to carry eachothers weight at verious times when personal matters arise
+3.As a team we plan to compartmentalize the assignments to share the load
+4.As a team we plan to be in open cominication to ensure that we complete the full assignment
+5.As a team we plan to deliver quality work that doesn't simply hit the minimum standards
+
 ## Communication Channels
 
 _**Appendix Table 1**: Team Member Communication Modes_
