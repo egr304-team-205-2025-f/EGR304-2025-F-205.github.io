@@ -26,7 +26,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Dario Solis Alvarez |  Instagram Group Chat | Text | Call |
 |Arianna Lazaritt |  Instagram group chat | Text | Email |
 |Sam Burns |  Instagram Group chat |  Text | Email |
-|Member 4 |  ? | ? | ? |
+|Sam Mangus |  Instagram group chat | Text | Email |
 
 ### Main Method for Group Communication
 
@@ -34,7 +34,7 @@ The main method our team will comunicate will be through the Instagram group cha
  
 ## Communication Procedures
 
-Our team will primarily communicate via a group chat on Instagram. This allows for asynchronous discussion and is convenient for quick check-ins, reminders, and general coordination. Arianna will be responsible for all instructor correspondence. This includes sending emails in terms of group-specific questions, and any responses or feedback will be relayed back to the team group chat by the end of the day.
+Our team will primarily communicate via a group chat on Instagram. This allows for asynchronous discussion and is convenient for quick check-ins, reminders, and general coordination. The project monitor will be responsible for all instructor correspondence. This includes sending emails in terms of group-specific questions, and any responses or feedback will be relayed back to the team group chat by the end of the day.
 
 For project documents and collaborative work, we will use Google Docs to ensure that all work is easily accessible and organized.
 
