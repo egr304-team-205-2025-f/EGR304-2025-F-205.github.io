@@ -100,7 +100,7 @@ tags:
 |                                                                                                                                                                                        | 3.  Daylight sensor and adjustable timer to prevent unnecessary activation. (latent)                               | 
 
 
-#### 2. [Under Cabinet Motion Sensor Lights]https://www.amazon.com/JACKPOT-BOOM-Rechargeable-Operated-Charging/dp/B0DLKNM8JS/ref=sr_1_14_sspa?crid=1R8RQ2NJDNB3V&dib=eyJ2IjoiMSJ9.-PIjvqrjtneQHxQrVdi2lJVa2V0tF5wmh82HRJQyCsFirUZzilhvHCPROS68cMl3O7pG--mDXZOVGLqDwVF8C5bxU83Vpr8UqiJV9oNg1r4VLLEpqK-XgwtzCqlk7Kn2kkl0YmM0TRwHR-rLDUdySsQRMfJw487pIRNT0Mdm6UjMRk33L0NYXZLTelmM_GIb5mVj-bnJiq9N6uaEPIS_lbMSAGBhMXmLKxLsmMyMDFV7DRHCz4BIyw-LPqkR6b5tLdTLjv2qJIaQdfcr-XQhOgvXIKipkAzgkILzV6jlK9A.mZPRnM8XOKaswBeQYjOI6TPYomxvgngVAQ6U6e4hjzk&dib_tag=se&keywords=motion+sensor+light&qid=1757910907&sprefix=%2Caps%2C140&sr=8-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1) 
+#### 2. [Under Cabinet Motion Sensor Lights](https://www.amazon.com/JACKPOT-BOOM-Rechargeable-Operated-Charging/dp/B0DLKNM8JS/ref=sr_1_14_sspa?crid=1R8RQ2NJDNB3V&dib=eyJ2IjoiMSJ9.-PIjvqrjtneQHxQrVdi2lJVa2V0tF5wmh82HRJQyCsFirUZzilhvHCPROS68cMl3O7pG--mDXZOVGLqDwVF8C5bxU83Vpr8UqiJV9oNg1r4VLLEpqK-XgwtzCqlk7Kn2kkl0YmM0TRwHR-rLDUdySsQRMfJw487pIRNT0Mdm6UjMRk33L0NYXZLTelmM_GIb5mVj-bnJiq9N6uaEPIS_lbMSAGBhMXmLKxLsmMyMDFV7DRHCz4BIyw-LPqkR6b5tLdTLjv2qJIaQdfcr-XQhOgvXIKipkAzgkILzV6jlK9A.mZPRnM8XOKaswBeQYjOI6TPYomxvgngVAQ6U6e4hjzk&dib_tag=se&keywords=motion+sensor+light&qid=1757910907&sprefix=%2Caps%2C140&sr=8-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1) 
 
 
 ![Figure #1](https://m.media-amazon.com/images/I/61bRpxutKDL._AC_SL1500_.jpg)
