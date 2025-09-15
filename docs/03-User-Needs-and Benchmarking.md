@@ -43,6 +43,46 @@ tags:
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  Tricky to set up (explicit)           |
 
 #### 2. Next Product goes here
+### Search #2
+
+
+**Keywords:** "motion sensor light"
+
+
+**Search Results Link:** [Amazon](https://www.amazon.com/s?k=motion+sensor+light&crid=3470N9SEWD9I8&sprefix=motion+sensor%2Caps%2C192&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_ci_hl-bn-left_6_13)
+### Selected Products
+
+
+#### 1. [Motion Sensor Ceiling Light](https://www.amazon.com/Westinghouse-Lighting-6111800-Ceiling-Fixture/dp/B08QTY79ZT/ref=sr_1_2_sspa?crid=3470N9SEWD9I8&dib=eyJ2IjoiMSJ9.-PIjvqrjtneQHxQrVdi2lJVa2V0tF5wmh82HRJQyCsEQkpdIe43hTPO-5ZtGjhWFBQLfwnZCHR_jSx953GW2Z42FMATxrSYDPcp84FzR__NHspszeArPM9e_TqpVG3EFt0Ho9ru-czBFsIPK4Ayn34urRDqvJadUuvaMV46Lx6-F67FZiD12rDOwEc4deFId9KBNrAYvjA2KL76HCM9JGQmo1_5xP0otvnwuTO5eibPBoC78mB2pBHNQXzJMOkMH-ZyRMuay6CGm7qstQ8AItgvXIKipkAzgkILzV6jlK9A.NOBqEVjE-DhtHwXsO_0cYWdJQKfHuIBgXuc6G5GlLPs&dib_tag=se&keywords=motion+sensor+light&qid=1757908583&sprefix=motion+sensor%2Caps%2C192&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) 
+
+
+![Figure #1](https://m.media-amazon.com/images/I/51r6pzgsQbL._AC_SL1500_.jpg)
+
+
+
+
+
+
+* Price: $14.99
+
+
+* Vendor: Amazon
+
+
+* Description: With Motion sensor provides automatic, energy-efficient light when it detects motion within 3 to 6 feet. Turns off after 5 minutes if no further motion is detected. LED brightness of 650 lumens is equivalent to a 40W incandescent bulb but uses only 7W of energy. A low profile design offers a discreet lighting solution for closets, attics, hallways and basements. Energy-efficient integrated LED light provides long-lasting performance, with a cool white 4000K color temperature. Traditional, 6-inch, round, LED ceiling light has a fresh white finish with a white frosted shade that easily coordinates with your decor.
+
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "The motion detection works really well and the brightness is perfect for the half bathroom I installed it in. What really made this great is that it stays on for about five minutes. Other lights went off too quick, and I was so sick of installing another pull chain on the light fixture. This was a great solution. I am going to order another and put it in the other half bath." | 1.  Reliable motion detection that activates the light effectively. (explicit)                             |
+|                                                                                                                                                                                        | 2.  Brightness suitable for small spaces like a half bathroom. (explicit) |
+|                                                                                                                                                                                        | 3.  Longer auto-off timer to avoid frequent reactivation or using pull chains. (explicit)                               |
+
+
+
+
 
 ### Search #2
 
