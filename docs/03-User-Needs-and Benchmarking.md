@@ -149,6 +149,39 @@ tags:
 
 
 
+### Search #3 
+
+**Keywords:** "Indoor motion sensing lighting"
+
+**Search Results Link:** [Lowes](https://www.lowes.com/search?searchTerm=indoor+motion+sensing+lighting)
+### Selected Products
+
+#### 1. [Utilitech Multi-Use 7-in Rechargeable USB plug-in LED Under Cabinet Light Bar Motion Sensing Light](https://www.lowes.com/pd/Utilitech-7-in-5CCT-Battery-Operated-Rechargeable-Motion-Sensing-LED-Accent-Light-Black/5015157301) 
+
+![Figure #1](https://mobileimages.lowes.com/productimages/18ab4be1-502f-4e3a-b2d6-d895b704fd3b/68378589.png?size=pdhz)
+
+
+
+* Price: $22
+
+* Vendor: Lowes
+
+* Description: This Alexa-compatible smart light switch is designed for single-pole installations requiring a neutral wire and operates on 2.4GHz Wi-Fi. It features a screw-free snap wall panel and is not compatible with multi-way switches. The device integrates with Amazon Alexa, Google Assistant, and the Smartlife app, allowing remote light control, scheduling, and automation (including sunrise/sunset syncing). The Smartlife app also supports multiple devices within the same ecosystem, enabling shared household access.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "This smart light switch is a game-changer for any home looking to upgrade its lighting system. Designed for single-pole configurations and requiring a neutral wire, it seamlessly integrates with your existing setup. The 2.4GHz Wi-Fi connectivity allows easy compatibility with Alexa and Google Home, letting you control your lights with simple voice commands. I use the Smart Life app and It offers schedule settings, enabling you to automate your lighting according to your routine. With no hub required, installation is straightforward. It’s a reliable, modern solution for enhancing convenience and energy efficiency in your home." | 1.  Quick/easy setup (explicit)                              |
+|                                                                                                                                                                                        | 2.  Works with existing home devices (explicit) |
+|                                                                                                                                                                                        | 3.  Highly competative price point(latent) |                              
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "Unstable performance. Low quality WiFi reception or transmission. Constantly loosing network connection. It was Hard to setup, switch requires to remove cover plate for scanning of the barcode. I tried 3 switches before giving up on this company." | 1.  Weak connection (explicit)                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  Delayed reaction (latent) |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  Tricky to set up (explicit)           |
 
 
 ### Search #2
