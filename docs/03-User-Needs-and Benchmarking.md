@@ -9,19 +9,18 @@ tags:
 
 ### Search #1
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "easy smart home light switch"
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
-
+**Search Results Link:** [Amazon](https://www.amazon.com/s?k=smart+light+switch+without+wiring&hvadid=695446421747&hvdev=c&hvexpln=67&hvlocphy=9052798&hvnetw=g&hvocijid=17039396217182763043--&hvqmt=e&hvrand=17039396217182763043&hvtargid=kwd-868618125747&hydadcr=16968_13415660&mcid=528728187e7f399d8790b7e0d9b3419f&tag=googhydr-20&ref=pd_sl_7iexi8nbui_e_p67)
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 1. [Smart Light Switch](amazon.com/Switch-Assistant-Control-Required-Neutral/dp/B0B1HQJ56C/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.7R5YQQJFR_1Jxp2PtprGNvmVkJCaK0vGD9r6uKyRzCMBVusz9LvQGR7jE4jWeal8JU6eAwW32Ogvazn0hXS3_RXtRnv7nFp9n2vZbK_k7T1zR4g6wQjCF_BRDGUdTlwAzOQHtmpGG3HEPmVh5in83Bxya24WDnj4-SIP63f387AYPWn7GueUtFGhTMC_Dw-daSDuQ79RdCc6limZaIyYe6AFuNK3tpv6yJpEfRZClrRdODVwFdUX2nU_Q6AeUgYDanzNwBa4lQ1m9TuNt_v1mv10wPCMckmrZlrddGiyu6A.LEjeH2UScTcxEiZl8vTlfz6cEKp8H2MgYvo5FB8FMuo&dib_tag=se&hvadid=695446421747&hvdev=c&hvexpln=67&hvlocphy=9052798&hvnetw=g&hvocijid=17039396217182763043--&hvqmt=e&hvrand=17039396217182763043&hvtargid=kwd-868618125747&hydadcr=16968_13415660&keywords=smart+light+switch+without+wiring&mcid=528728187e7f399d8790b7e0d9b3419f&qid=1757900535&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) < (link to the product)
 
-![](image1.png)
+![](search1.jpg)
 
 **(include a picture)**
 
-* Price: $65
+* Price: $12
 
 * Vendor: Amazon
 
