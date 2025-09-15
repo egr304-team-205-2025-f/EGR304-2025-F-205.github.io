@@ -7,7 +7,7 @@ tags:
 
 ## Voice of the Customer Benchmarking Example
 
-### Search #1 - SB
+### Search #1 
 
 **Keywords:** "easy smart home light switch"
 
@@ -24,7 +24,7 @@ tags:
 
 * Vendor: Amazon
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: This Alexa-compatible smart light switch is designed for single-pole installations requiring a neutral wire and operates on 2.4GHz Wi-Fi. It features a screw-free snap wall panel and is not compatible with multi-way switches. The device integrates with Amazon Alexa, Google Assistant, and the Smartlife app, allowing remote light control, scheduling, and automation (including sunrise/sunset syncing). The Smartlife app also supports multiple devices within the same ecosystem, enabling shared household access.
 
 ##### Positive Comments
 
