@@ -7,7 +7,7 @@ tags:
 
 ## Voice of the Customer Benchmarking Example
 
-### Search #1
+### Search #1 - SB
 
 **Keywords:** "easy smart home light switch"
 
