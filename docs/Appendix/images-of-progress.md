@@ -1,1 +1,1 @@
-[Figure 1](Stage 1.pdf)
+![Figure1](Stage 1.pdf)
