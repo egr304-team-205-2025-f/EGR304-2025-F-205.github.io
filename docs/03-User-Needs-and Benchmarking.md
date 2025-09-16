@@ -209,7 +209,66 @@ tags:
 
 
 
-### Search #2
+### Search #4
+
+
+**Keywords:** "motion activated lights"
+
+
+**Search Results Link:** [Amazon](https://www.amazon.com/s?k=motion+activated+lights&crid=27D7KS6RJF7GI&sprefix=motion+activated+lights%2Caps%2C187&ref=nb_sb_noss_1)
+### Selected Products
+
+
+#### 5. [MAZ-TEK Plug in Motion Sensor](https://www.amazon.com/MAZ-TEK-Plug-Motion-Sensor-Lights/dp/B07KMDJPG1/ref=asc_df_B07KMDJPG1?tag=bingshoppinga-20&linkCode=df0&hvadid=80814159960128&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=43458&hvtargid=pla-4584413736379480&psc=1) 
+
+
+![Figure #1](https://m.media-amazon.com/images/I/416Xx9INusL._AC_SX679_.jpg)
+
+
+
+
+
+
+* Price: $12.99
+
+
+* Vendor: Amazon
+
+
+* Description: This motion sensor provides an automatic light with an adjustable range from 0-25 lumens when activity is detected within 25 feet and will automatically shut off after 20 seconds of inactivity. It simply needs an ac outlet so no install is necesarry making it perfect for high traffic areas in the house such as the kitchen, stairaces, or the garage. The light is also very efficient consuming a maximum power of 0.5W making it cost less than 20 cents a year to use.
+
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Great price, works as described. Love the dimmable feature and the ability to use it if motion is detected, instead of on constantly. I'm someone who likes it pitch dark, so I appreciate that feature very much. Great for use when traveling." | 1.  Features work as expected. (explicit)                             |
+|                                                                                                                                                                                        | 2.  Convienent enough to travel with. (explicit) |
+|                                                                                                                                                                                        | 3.  Adjustable brightness is a deisrable feature. (latent)                               | 
+| "Works reliably and stays on for about 20s after passing by. I like the ability to adjust brightness and color is warm. Wattmeter shows 0.5W idle power consumption, could be lower but not too bad. Good price." | 1.  Price is fair. (explicit)                              |
+|                                                                                                                                                                                        | 2.  Lower power consumption while idle. (latent) |
+|                                                                                                                                                                                        | 3.  Performs reliably. (explicit)                               |
+| "Finally! A light that is adjustable from 0-100.
+Sometimes when you travel the sink is in the bedroom area. You would want the light to be really faint. This is the perfect light." | 1.  Adjustable brightness preffered. (explicit)                              |
+|                                                                                                                                                                                        | 2.  Works well in many situtations. (latent) |
+|                                                                                                                                                                                        | 3.  More customizable compared to similar products. (latent)                               | 
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "My review at purchased would have been a 5.  But after 6 months, both of them have failed to turn on.  
+
+The odds of 1 failing is one thing, but both of them quit working.  This suggests a serious quality defect.  So, I'm out $12 and on the search to replace them.  Too bad, because the adjustable settings were spot on and very handy" | 1.  Consistent product quality and reliability. (explicit)                            |
+|                                                                                                                                                                                        | 2.  Longer product lifespan. (explicit) |
+|                                                                                                                                                                                        | 3.  Higher quality product. (explicit)                               | 
+| "Great until it wasn’t…
+We were completely happy with the product functioning as advertised until multiple stopped working around 6 months of use. They were all set to “auto” and were not frequently turned on. I’ve had some LED night lights for 5+ years going strong. This is such a disappointment… it’s not like you can replace the bulb. Another piece of plastic for the trash heap." | 1.  Ability to replace faulty parts. (latent)                              |
+|                                                                                                                                                                                        | 2.  Consistent product quality. (explicit) |
+|                                                                                                                                                                                        | 3.  Low life span compared to similar products. (explicit)                               |
+| "Supposedly these units have an auto mode detect motion and turn on the light as you walk by. Well worth the price premium for the motion detection feature, I thought. But only one of the two units worked, and only at a fraction of the distance and angle claimed. So I requested replacements...which were shipped promptly. Unfortunately the motion detection feature did not work on either of them. So not only am I extremely disappointed with product quality, but also with the hassle of having to travel to UPS to send all these back. The light itself is adjustable in intensity, and at maximum intensity quite bright....or you can make it dim, which is nice. If you do not mind keeping them in the "on" mode rather than motion sensing mode, they are just fine. But giving you are paying a premium for the motion detection feature that does not work, I can't recommend anyone buying this." | 1.  Features that work as advertised. (explicit)                              |
+|                                                                                                                                                                                        | 2.  Motion sensing mode that works properly. (explicit) |
+|                                                                                                                                                                                        | 3.  Ensure the price is comprable to the quality of the product. (latent)                               | 
 
 (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
