@@ -156,7 +156,7 @@ tags:
 **Search Results Link:** [Lowes](https://www.lowes.com/search?searchTerm=indoor+motion+sensing+lighting)
 ### Selected Products
 
-#### 1. [Utilitech Multi-Use 7-in Rechargeable USB plug-in LED Under Cabinet Light Bar Motion Sensing Light](https://www.lowes.com/pd/Utilitech-7-in-5CCT-Battery-Operated-Rechargeable-Motion-Sensing-LED-Accent-Light-Black/5015157301) 
+#### 4. [Utilitech Multi-Use 7-in Rechargeable USB plug-in LED Under Cabinet Light Bar Motion Sensing Light](https://www.lowes.com/pd/Utilitech-7-in-5CCT-Battery-Operated-Rechargeable-Motion-Sensing-LED-Accent-Light-Black/5015157301) 
 
 ![Figure #1](https://mobileimages.lowes.com/productimages/18ab4be1-502f-4e3a-b2d6-d895b704fd3b/68378589.png?size=pdhz)
 
@@ -166,7 +166,7 @@ tags:
 
 * Vendor: Lowes
 
-* Description: This Alexa-compatible smart light switch is designed for single-pole installations requiring a neutral wire and operates on 2.4GHz Wi-Fi. It features a screw-free snap wall panel and is not compatible with multi-way switches. The device integrates with Amazon Alexa, Google Assistant, and the Smartlife app, allowing remote light control, scheduling, and automation (including sunrise/sunset syncing). The Smartlife app also supports multiple devices within the same ecosystem, enabling shared household access.
+* Description: Discover the brilliance of the Utilitech 7-inch Rechargeable LED Multi-Use Light. Powered by a rechargeable battery, this wireless wall light can be added anywhere light is needed, no hardwiring required. Add this sleek and modern multi-use light in your hallway, living room, or bedroom. Easily detach the light off the magnetic plate to recharge and to use as an on-the-go task light or emergency power outage light. With the adjustable brightness and color temperature settings, you can use this versatile fixture as a night light with a warm glow or as a bright white reading light. The light can be on continuously or set on motion-sensing mode for a hands-free lighting experience, making it ideal for busy households. The motion sensor has a built-in light sensor that only turns on when it is dark and detects motion. With its long-lasting rechargeable battery, this light last up to 23 days on eight 20-second activations per day when fully charged.
 
 ##### Positive Comments
 
