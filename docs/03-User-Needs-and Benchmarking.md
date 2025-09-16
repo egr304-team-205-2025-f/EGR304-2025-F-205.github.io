@@ -111,6 +111,15 @@ tags:
 
 
 ### Search #3
+
+
+**Keywords:** "motion sensor light"
+
+
+**Search Results Link:** [Amazon](https://www.amazon.com/s?k=motion+sensor+light&crid=3470N9SEWD9I8&sprefix=motion+sensor%2Caps%2C192&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_ci_hl-bn-left_6_13)
+### Selected Products
+
+
 #### 3. [Under Cabinet Motion Sensor Lights](https://www.amazon.com/JACKPOT-BOOM-Rechargeable-Operated-Charging/dp/B0DLKNM8JS/ref=sr_1_14_sspa?crid=1R8RQ2NJDNB3V&dib=eyJ2IjoiMSJ9.-PIjvqrjtneQHxQrVdi2lJVa2V0tF5wmh82HRJQyCsFirUZzilhvHCPROS68cMl3O7pG--mDXZOVGLqDwVF8C5bxU83Vpr8UqiJV9oNg1r4VLLEpqK-XgwtzCqlk7Kn2kkl0YmM0TRwHR-rLDUdySsQRMfJw487pIRNT0Mdm6UjMRk33L0NYXZLTelmM_GIb5mVj-bnJiq9N6uaEPIS_lbMSAGBhMXmLKxLsmMyMDFV7DRHCz4BIyw-LPqkR6b5tLdTLjv2qJIaQdfcr-XQhOgvXIKipkAzgkILzV6jlK9A.mZPRnM8XOKaswBeQYjOI6TPYomxvgngVAQ6U6e4hjzk&dib_tag=se&keywords=motion+sensor+light&qid=1757910907&sprefix=%2Caps%2C140&sr=8-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1) 
 
 
@@ -199,7 +208,7 @@ tags:
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | "This light has potential but lacks quality control as far as production and design. First, the negatives were the poorly thought out way of hanging this light, a 3M double piece of tape, and a cheaply made plastic mount with 2 tiny magnets. When I opened mine, the magnet on the light had already fallen off, so without gluing it back on, there was no other way to hang it. The magnet not being secured properly is a very real hazard to be swallowed by a child The good points are I like the motion sensor it works very well,the ability to change the color tone makes it good for use in many situations and being rechargeable and the use of USB C is nice. I cannot recommend this product to friends and family it is just to much of a hazard to children." | 1.  Product could use stronger, more durable structure (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  Safty concerns with sizing of components (explicit) |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  Safety concerns with sizing of components (explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3. Potential damaging of the product during transportation (latent)           |
 | "Does automatically switch on when it detects a movement, and will shut off after a minute. it does illuminate the area needed. i have this in the A/C closet because the lighting is bad, and I figured that a flashlight there that came on automatically would be nice. however, it does not hold a charge a long time. After a week, the unit was dead and needed to be recharged again. I tried this for three weeks and after about 7 days the unit is dead. then it needs to be recharged. I have another light that uses AA batteries and it has stayed active for over a year. disappointed." | 1. Needs to hold charge for long periods (explicit) |
 | | 2. Needs to be more convenient than market competetors (explicit) |
@@ -267,6 +276,26 @@ Sometimes when you travel the sink is in the bedroom area. You would want the li
 | "Supposedly these units have an auto mode detect motion and turn on the light as you walk by. Well worth the price premium for the motion detection feature, I thought. But only one of the two units worked, and only at a fraction of the distance and angle claimed. So I requested replacements...which were shipped promptly. Unfortunately the motion detection feature did not work on either of them. So not only am I extremely disappointed with product quality, but also with the hassle of having to travel to UPS to send all these back. The light itself is adjustable in intensity, and at maximum intensity quite bright....or you can make it dim, which is nice. If you do not mind keeping them in the "on" mode rather than motion sensing mode, they are just fine. But giving you are paying a premium for the motion detection feature that does not work, I can't recommend anyone buying this." | 1.  Features that work as advertised. (explicit)                              |
 |                                                                                                                                                                                        | 2.  Motion sensing mode that works properly. (explicit) |
 |                                                                                                                                                                                        | 3.  Price is comprable to the quality of the product. (latent)                               |  
+
+
+## Organized Need Statements
+### First Placement
+![Figure #1](file:///C:/Users/arila/OneDrive/Pictures/needs%20first%20added.pdf)
+
+### Grouped with categories
+The user needs were categorized as follows:
+* User friendliness and compatibility (pink)
+* Light behavior and control (yellow)
+* Cost (brown)
+* Motion detection behavior (orange)
+* Battery life anf power (green)
+* Product quality and reliability (blue)
+* Compatibility with other appliances (red)
+  
+![Figure #1](file:///C:/Users/arila/OneDrive/Pictures/after%20grouping.pdf)
+
+### Ranked
+![Figure #1](file:///C:/Users/arila/OneDrive/Pictures/after%20ranking.pdf)
 
 <!-- (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
