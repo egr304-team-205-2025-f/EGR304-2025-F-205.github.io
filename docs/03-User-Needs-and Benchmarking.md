@@ -280,7 +280,7 @@ Sometimes when you travel the sink is in the bedroom area. You would want the li
 
 ## Organized Need Statements
 ### First Placement
-![Figure #1](file:///C:/Users/arila/OneDrive/Pictures/needs%20first%20added.pdf)
+![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/first%20added%20need%20statements.png?raw=true)
 
 ### Grouped with categories
 The user needs were categorized as follows:
@@ -292,10 +292,19 @@ The user needs were categorized as follows:
 * Product quality and reliability (blue)
 * Compatibility with other appliances (red)
   
-![Figure #1](file:///C:/Users/arila/OneDrive/Pictures/after%20grouping.pdf)
+![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/after%20grouping.png?raw=true)
 
 ### Ranked
-![Figure #1](file:///C:/Users/arila/OneDrive/Pictures/after%20ranking.pdf)
+The user needs were then ranked in the following order of importance: 
+1. User friendliness and compatibility (pink)
+2. Motion detection behavior (orange)
+3. Light behavior and control (yellow)
+4. Product quality and reliability (blue)
+5. Battery life anf power (green)
+6. Cost (brown)
+7. Compatibility with other appliances (red)
+
+![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/after%20ranking.png?raw=true)
 
 <!-- (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
