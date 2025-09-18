@@ -14,7 +14,7 @@ This project aims to develop a sound-actuated automatic lighting system that wil
 - **Target group** Individuals in environments where hands-free lighting solutions would improve accessibility and convenience.
 - **Target purchaser** Organizations or individuals wanting practical, energy efficient lighting solutions that will enhance user experience.
 - **Customer service** Provides straightforward and timely responses to support troubleshooting solutions to users
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
+- **Marketing & Sales division** Looks for unique selling points catered towards user needs and product simplicity.
 - **Retailers** Able to cater the product to a wide range of audiences for multiple solutions. 
 
 
