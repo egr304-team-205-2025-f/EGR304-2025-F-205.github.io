@@ -36,8 +36,9 @@ The new product design will be based on that of typical sound-activated automati
    * 1.2 The product shall be easy to recognize as a high quality and highly practical lighting solution given its many was to mount it on a wide range of surfaces. (P10)
    * 1.3 The product shall avoid styling elements from our other lighting solutions such as the thin exterior plastic that often makes the product feel very cheap. (P8)
    * 1.4 The product shall have simple design with having mechanical buttons while keeping the various mounting solutions on the back of the product. (P8)
+   
   
-1. **Functionality**
+2. **Functionality**
 
        * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
        * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
