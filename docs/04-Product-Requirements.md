@@ -37,17 +37,24 @@ The new product design will be based on that of typical sound-activated automati
    * 1.4 The product shall have simple design with having mechanical puttons while keeping the various mounting solutions on the back of the product. (P8)
   
 1. **Functionality**
-      * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
-      * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
-      * 2.3 The pruduct shall have a customizable mounting system to acoomidate various mounting systems. (P9)
-      * 2.4 The product shall have a recharable battery system with a high capacity battery with a efficent lighting system for prolonged life. (P10)
+       * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
+       * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
+       * 2.3 The pruduct shall have a customizable mounting system to acoomidate various mounting systems. (P9)
+       * 2.4 The product shall have a recharable battery system. (P10)
+       * 2.5 The product shall turn off after a set period which can be adjusted by the user. (P5)
+
+
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1.1.1 - Utalize Type-C charging for universal use with an onboard power regulator to 5.0 V.
+* 1.1.2 - Rechargable lithim ion battery with a minimum capacity of 10,000 mHa.
+* 1.1.3 - Tactile pull buttons, with clear graphics demontrating what the buttons are used for.
+* 1.2.1 - Built in magnets on adjustable "legs" of the product.
+* 1.2.2 - Various adaptors for mounting to different surfaces.  
 
 ## Open Questions
 
 * Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Can we improve on lighting a room from a single sorce?
+* Can we create a cost effective product that is also practical and durable?
