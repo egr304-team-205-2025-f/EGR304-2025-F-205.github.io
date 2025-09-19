@@ -40,11 +40,11 @@ The new product design will be based on that of typical sound-activated automati
   
  **Functionality**
 
-       * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
-       * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
-       * 2.3 The product shall have a customizable mounting system to accommodate various mounting systems. (P9)
-       * 2.4 The product shall have a rechargeable battery system. (P10)
-       * 2.5 The product shall turn off after a set period which can be adjusted by the user. (P5)
+   * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
+   * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
+   * 2.3 The product shall have a customizable mounting system to accommodate various mounting systems. (P9)
+   * 2.4 The product shall have a rechargeable battery system. (P10)
+   * 2.5 The product shall turn off after a set period which can be adjusted by the user. (P5)
 
 
 
