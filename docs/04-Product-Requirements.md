@@ -30,17 +30,19 @@ Large, dark rooms, such as basements or other storage areas, can pose hazards to
 
 The new product design will be based on that of typical sound-activated automatic lighting systems with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producr Design**
+1. **Product Design**
+
    * 1.1 The product shall be visually easy to distinguish from existing lighting systems as well as main competitors which can be various motion activated lights that are battery powered. (P10)
    * 1.2 The product shall be easy to recognize as a high quality and highly practical lighting solution given its many was to mount it on a wide range of surfaces. (P10)
    * 1.3 The product shall avoid styling elements from our other lighting solutions such as the thin exterior plastic that often makes the product feel very cheap. (P8)
-   * 1.4 The product shall have simple design with having mechanical puttons while keeping the various mounting solutions on the back of the product. (P8)
+   * 1.4 The product shall have simple design with having mechanical buttons while keeping the various mounting solutions on the back of the product. (P8)
   
 1. **Functionality**
+
        * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
        * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
-       * 2.3 The pruduct shall have a customizable mounting system to acoomidate various mounting systems. (P9)
-       * 2.4 The product shall have a recharable battery system. (P10)
+       * 2.3 The product shall have a customizable mounting system to accommodate various mounting systems. (P9)
+       * 2.4 The product shall have a rechargeable battery system. (P10)
        * 2.5 The product shall turn off after a set period which can be adjusted by the user. (P5)
 
 

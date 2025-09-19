@@ -288,7 +288,7 @@ The user needs were categorized as follows:
 * Light behavior and control (yellow)
 * Cost (brown)
 * Motion detection behavior (orange)
-* Battery life anf power (green)
+* Battery life and power (green)
 * Product quality and reliability (blue)
 * Compatibility with other appliances (red)
   
@@ -300,7 +300,7 @@ The user needs were then ranked in the following order of importance:
 2. Motion detection behavior (orange)
 3. Light behavior and control (yellow)
 4. Product quality and reliability (blue)
-5. Battery life anf power (green)
+5. Battery life and power (green)
 6. Cost (brown)
 7. Compatibility with other appliances (red)
 

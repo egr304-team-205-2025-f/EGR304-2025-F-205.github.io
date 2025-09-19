@@ -12,4 +12,4 @@ Team 205 is a collaboration of future engineers with distict backgrounds, brough
 
 ## Product Mission Statement
 
-Team 205 aims to develop more user-friendly devices that create a positive impact for day-to-day activities.
+Team 205 aims to brighten our enviornment with audio-activated illumination technology, just as a baby's joyful giggle would brighten yours.
