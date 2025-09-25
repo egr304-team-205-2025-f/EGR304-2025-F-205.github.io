@@ -7,8 +7,7 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+This phase of our product design focused on developing a wide range of features that could be added to our product in order to best meet the previously identified user needs and product requirements. Through structured brainstorming, idea organization, and concept development, we were able to produce three distinct product concepts.
 
 ## Generating Ideas
 
