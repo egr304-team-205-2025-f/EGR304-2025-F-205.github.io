@@ -45,6 +45,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Customizable Lighting |             Tunable LED             | Warm, Flat, and Cool lighiting|
 | Customizable Lighting |              Adjustable Lights              | Multiple lights that can be pointed in different directions |
 | Customizable Lighting |             Night light mode              | Not just a main light source, but can a mode for low light for sleeping |
+| Product can be integrated with other smart home products |              wifi connectivity              | Device can connect to a home platform to coomunicate with other smart home devices |
+| Product can be integrated with other smart home products |              voice assistant              | Device supports control via voice commands |
+| Product can be integrated with other smart home products |              device discovery              | Device can detect and pair with other devices |
+| Product can be integrated with other smart home products |              sound detection              | Device is activated with a specific auditory command |
+| Product can be integrated with other smart home products |              companion app              | Device syncs and is controlled by a universal app |
 
 ## Step 3.1
 
