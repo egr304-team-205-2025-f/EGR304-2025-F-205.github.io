@@ -35,11 +35,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product is portable |              foldable stand              | Product has a foldable stand to be able to stand it up and put it away |
 | Product is portable |              suction base              | Device has a suction on one face to be able to hold the light anywhere |
 | Product is portable |              rechargable              | Device needs to be charged to operate to minimize additional costs |
-| Product actives automatically |              motion sensor              | Device turns on when any movement is detected |
-| Product actives automatically |              scheduled activation              | Product operates on a user-set schedule |
-| Product actives automatically |              audio sensor              | Device activates in response to a specific sound pattern |
-| Product actives automatically |              light sensor              | Activates automatically based on low light levels |
-| Product actives automatically |              touch sensor              | Activates when light pressure is applied to a surface | 
+| Product activates automatically |              motion sensor              | Device turns on when any movement is detected |
+| Product activates automatically |              scheduled activation              | Product operates on a user-set schedule |
+| Product activates automatically |              audio sensor              | Device activates in response to a specific sound pattern |
+| Product activates automatically |              light sensor              | Activates automatically based on low light levels |
+| Product activates automatically |              touch sensor              | Activates when light pressure is applied to a surface | 
 | Customizable Lighting |              RGB LED              | Vast color options |
 | Customizable Lighting |              Mechanical Penals              | Mechanical panels to reflect the light differently |
 | Customizable Lighting |             Tunable LED             | Warm, Flat, and Cool lighiting|
@@ -66,7 +66,13 @@ For each user need and product requirement, brainstorm 5 different product featu
 |-----------------------------|--------------------------------------|--------------------------------|-----------------|
 | **Brightness:** Light sensor, Memory function  <br> **Multi-Unit:** Wireless sync  <br> **Battery & Power:** Solar charging, Low power mode, Power-saving components  <br> **Portability:** Handle/clip  <br> **Auto Activation:** Motion sensor, Light sensor  <br> **Custom Lighting:** Night light mode | **Brightness:** Adjustable brightness, Touchscreen, Auto dimming  <br> **Multi-Unit:** App control, Main unit hub, Remote controlled  <br> **Battery & Power:** High capacity battery, Battery health display, Swappable batteries  <br> **Portability:** Foldable stand, Rechargeable, Suction base  <br> **Auto Activation:** Scheduled activation, Touch sensor  <br> **Custom Lighting:** RGB LED, Adjustable lights, Tunable LED | **Brightness:** Auto dimming, Memory function  <br> **Multi-Unit:** Signal relay, Wireless sync  <br> **Battery & Power:** Rechargeable, Low power mode  <br> **Portability:** Handle/clip, Swappable batteries  <br> **Auto Activation:** Audio sensor, Motion sensor  <br> **Custom Lighting:** RGB LED, Mechanical panels, Tunable LED, Night light mode | **Brightness:** Touchscreen (alternative use)  <br> **Multi-Unit:** Remote controlled (expansion idea)  <br> **Battery:** Battery health display (repurpose)  <br> **Custom Lighting:** Adjustable lights, Mechanical panels (rework possible) |
 
-Add your different product concepts stuff here
+## Product Concept 1 sketch
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+## Product Concept 2 sketch
+![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202.png)
+
+![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202%20panel.png)
+
+## Product Concept 3 sketch
+
+## Documentation of our work can be found in Appendix - Design Ideation
