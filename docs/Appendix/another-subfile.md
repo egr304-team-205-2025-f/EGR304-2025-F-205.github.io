@@ -8,7 +8,7 @@ title: Appendix - Design Ideation
 
 Our brainstorming session was set up to generate a wide range of feature ideas based on user needs and product requirements. The point of generating so many feature ideas was to be able to later group these features so that three distinct product concepts could be produced.
 
-All group members participated in the brainstorming process. The process was conducted asynchronously via a group chat so that team members could keep up with each other's progress and ideas. Once all 100 features were generated, one team member organized and sorted them into different categories. 
+Most group members participated in the brainstorming process. The process was conducted asynchronously via a group chat so that team members could keep up with each other's progress and ideas. Once all 100 features were generated, a team member organized and sorted them into different categories. 
 
 Our feature ideas were primarily based on the user needs that were generated and organized in the User Needs and Benchmarking assignment. The results from this assignment helped ensure that our brainstorming and the features that were generated from it remained centered around the needs we had previously identified. The existing products and their reviews helped guide our brainstorming and later helped us create three distinct product concepts.
 
