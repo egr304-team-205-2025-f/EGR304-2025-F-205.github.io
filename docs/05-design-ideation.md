@@ -60,6 +60,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 |  Device should be durable to withstand various use conditions |              Dust proof seals             | Silicone gaskets prevent debris from entering ports to preserve functionality over time |
 | Device should be durable to withstand various use conditions |              scratch resistant surface              | device has a tough finish to resist wear |
 | Device should be durable to withstand various use conditions |              shock absorbing internal components              | internal components are mounted with shock absorbing mounts to reduce damage from potential impact |
+| Product should automatically turn off after a set duration |              inactivity timer              | Device turns off automatically after a set period of no interaction to conserve energy |
+| Product should automatically turn off after a set duration |              motion sensor timeout              | Turns off automatically a few minutes after motion is no longer detected |
+| Product should automatically turn off after a set duration |              light detection              | Device shuts off if sufficient natural light is detected |
+| Product should automatically turn off after a set duration |              scheduled off timer              | Allows users to set specific times for the device to turn off each day|
+| Product should automatically turn off after a set duration |              auto dim              | Device will slowly dim after prolonged inactivity |
 
 
 
