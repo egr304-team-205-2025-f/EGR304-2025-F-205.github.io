@@ -2,7 +2,7 @@
 title: Appendix - Design Ideation
 ---
 
-Progress Documentation
+## Progress Documentation
 
 
 
