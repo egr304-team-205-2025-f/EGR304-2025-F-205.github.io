@@ -55,6 +55,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Hands free operation |              Audio activation              | Responds to specific audio cues (clapping) |
 | Hands free operation |              Light sensor              | Device will stay on or off depending on surrounding light conditions |
 | Hands free operation |              Scheduled activation              | Users can pre-program operation time |
+| Device should be durable to withstand various use conditions |              Impact resistant              | Outer shell is made from shock absorbing material |
+| Device should be durable to withstand various use conditions |              Water resistant             | Device is controlled with voice command |
+| Sealed casing protects components from water for both indoor and outdoor use |              Dust proof seals             | Silicone gaskets prevent debris from entering ports to preserve functionality over time |
+| Device should be durable to withstand various use conditions |              scratch resistant surface              | device has a tough finish to resist wear |
+| Device should be durable to withstand various use conditions |              shock absorbing internal components              | internal components are mounted with shock absorbing mounts to reduce damage from potential impact |
+
 
 
 ## Step 3.1
