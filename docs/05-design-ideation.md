@@ -50,6 +50,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product can be integrated with other smart home products |              device discovery              | Device can detect and pair with other devices |
 | Product can be integrated with other smart home products |              sound detection              | Device is activated with a specific auditory command |
 | Product can be integrated with other smart home products |              companion app              | Device syncs and is controlled by a universal app |
+| Hands free operation |              Voice control              | Device is controlled with voice command |
+| Hands free operation |              Motion sensor             | Device is activated/deactivated when someone enters or leaves the room |
+| Hands free operation |              Audio activation              | Responds to specific audio cues (clapping) |
+| Hands free operation |              Light sensor              | Device will stay on or off depending on surrounding light conditions |
+| Hands free operation |              Scheduled activation              | Users can pre-program operation time |
+
 
 ## Step 3.1
 
