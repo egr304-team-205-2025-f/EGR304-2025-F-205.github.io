@@ -55,8 +55,26 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Hands free operation |              Audio activation              | Responds to specific audio cues (clapping) |
 | Hands free operation |              Light sensor              | Device will stay on or off depending on surrounding light conditions |
 | Hands free operation |              Scheduled activation              | Users can pre-program operation time |
-
-
+| Easy to install |              Suction cup              | Users can easily mount it to a flat surface |
+| Easy to install |              Adhesive              | Users can stick the light to a surface |
+| Easy to install |              Type-A plug              | Users can plug into most household outlets |
+| Easy to install |              Velcro              | Allows the light to be easily relocated |
+| Easy to install |              Bracket              | Allows users to mount the light wherever they please with minimal effort compared to other options |
+| Energy efficient |              LEDs              | Much more energy efficient than traditional light bulbs |
+| Energy efficient |              Brightness settings              | Allow the user to adjust the intensity of the light |
+| Energy efficient |              Adjustable color temprature              | Light temprature being adjustable means users can pick a less intense setting allowing for better energy efficiency |
+| Energy efficient |              On/off switch              | Allows user to completely cut power when not using the light |
+| Energy efficient |              Timer              | Allows the user to set when the lights on |
+| Compact |              Foldable              | Light can be made even more compact for easy storage |
+| Compact |              Flat profile              | Flat profile so it can sit flush on a wall for minimal obstruction |
+| Compact |              Recessed wall light              | Allows the light to not protrude  |
+| Compact |              LEDs              | LEDs will take up less space than traditional bulbs allowing us to make a smaller design |
+| Compact |              Thin materials              | Make the surrounding components of lightweight materials that will make for a less intrusive design |
+| User friendly |              UI screen              | Light will have a simple UI screen that allows the user to navigate the settings with ease and adjust what they want |
+| User friendly |              Simple controls              | Adjustable knobs for brightness/color so the user can easily adjust the settings |
+| User friendly |              Instruction manual              | Include a simple manual the walks the user through the features and other important information |
+| User friendly |              Icons             | Icons will be place above controls to make them intuitive to make it accesible for different countries |
+| User friendly |              Ease of access              | Lower the price point by using the most cost effective components |
 ## Step 3.1
 
    Feature Grouping & Ranking Matrix
