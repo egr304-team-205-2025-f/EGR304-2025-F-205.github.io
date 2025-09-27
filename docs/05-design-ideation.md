@@ -71,7 +71,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 ## Product Concept 2 sketch
 ![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202.png)
 
-![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202%20panel.png)
+![Figure #2](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202%20panel.png)
 
 ## Product Concept 3 sketch
 
