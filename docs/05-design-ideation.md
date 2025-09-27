@@ -48,16 +48,16 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ## Step Three
 
-  # Feature Grouping & Ranking Matrix
+   Feature Grouping & Ranking Matrix
 
-| Group                   | Top Features (⭐)               | Baseline / Supporting (👍)                  | Remix Opportunities |
+| Group                   | Top Features                 | Baseline / Supporting                   | Remix Opportunities |
 |--------------------------|---------------------------------|---------------------------------------------|----------------------|
-| Brightness Control       | ⭐ Light sensor; ⭐ Memory       | Adjustable brightness; Touchscreen; Auto-dim | Hybrid Smart Brightness — auto-adjust + remembers last setting |
-| Multi-Unit Functionality | ⭐ Wireless sync; ⭐ App control | Main unit hub; Signal relay; Remote          | Smart Sync Hub — wireless + app + hub override |
-| Battery & Power          | ⭐ Solar charging; ⭐ Low power  | High capacity; Battery display; Efficient components | Eco Power System — solar + low power + swappable batteries |
-| Portability & Form       | ⭐ Handle/clip; ⭐ Swappable     | Rechargeable; Foldable stand; Suction base   | Ultra-Portable Kit — clip + swappable + foldable |
-| Automatic Activation     | ⭐ Motion sensor; ⭐ Scheduled   | Touch sensor; Audio; Light sensor            | Smart Auto-On Suite — motion + light + scheduling |
-| Customizable Lighting    | ⭐ Tunable LED; ⭐ RGB LED       | Night light mode; Adjustable lights; Panels  | Adaptive Lighting Modes — presets (focus, relax, sleep) |
+| Brightness Control       |  Light sensor;  Memory       | Adjustable brightness; Touchscreen; Auto-dim | Hybrid Smart Brightness — auto-adjust + remembers last setting |
+| Multi-Unit Functionality |  Wireless sync;  App control | Main unit hub; Signal relay; Remote          | Smart Sync Hub — wireless + app + hub override |
+| Battery & Power          |  Solar charging;  Low power  | High capacity; Battery display; Efficient components | Eco Power System — solar + low power + swappable batteries |
+| Portability & Form       |  Handle/clip;  Swappable     | Rechargeable; Foldable stand; Suction base   | Ultra-Portable Kit — clip + swappable + foldable |
+| Automatic Activation     |  Motion sensor;  Scheduled   | Touch sensor; Audio; Light sensor            | Smart Auto-On Suite — motion + light + scheduling |
+| Customizable Lighting    |  Tunable LED;  RGB LED       | Night light mode; Adjustable lights; Panels  | Adaptive Lighting Modes — presets (focus, relax, sleep) |
 
 ## Step Four
 # Product Concept Bins
