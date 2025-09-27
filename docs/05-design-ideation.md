@@ -40,11 +40,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product actives automatically |              audio sensor              | Device activates in response to a specific sound pattern |
 | Product actives automatically |              light sensor              | Activates automatically based on low light levels |
 | Product actives automatically |              touch sensor              | Activates when light pressure is applied to a surface | 
-| Customixable Lighitng |              RGB LED              | Vast color options |
-| Customixable Lighitng |              Mechanical Penals              | Mechanical panels to reflect the light differently |
-| Customixable Lighitng |             Tunable LED             | Warm, Flat, and Cool lighiting|
-| Customixable Lighitng |              Adjustable Lights              | Multiple lights that can be pointed in different directions |
-| Customixable Lighitng |             Night light mode              | Not just a main light source, but can a mode for low light for sleeping |
+| Customizable Lighting |              RGB LED              | Vast color options |
+| Customizable Lighting |              Mechanical Penals              | Mechanical panels to reflect the light differently |
+| Customizable Lighting |             Tunable LED             | Warm, Flat, and Cool lighiting|
+| Customizable Lighting |              Adjustable Lights              | Multiple lights that can be pointed in different directions |
+| Customizable Lighting |             Night light mode              | Not just a main light source, but can a mode for low light for sleeping |
 
 ## Step 3.1
 
