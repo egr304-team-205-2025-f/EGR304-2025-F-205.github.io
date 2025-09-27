@@ -46,7 +46,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Customixable Lighitng |              Adjustable Lights              | Multiple lights that can be pointed in different directions |
 | Customixable Lighitng |             Night light mode              | Not just a main light source, but can a mode for low light for sleeping |
 
-## Step Three
+## Step 3.1
 
    Feature Grouping & Ranking Matrix
 
@@ -59,7 +59,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Automatic Activation     |  Motion sensor;  Scheduled   | Touch sensor; Audio; Light sensor            | Smart Auto-On Suite — motion + light + scheduling |
 | Customizable Lighting    |  Tunable LED;  RGB LED       | Night light mode; Adjustable lights; Panels  | Adaptive Lighting Modes — presets (focus, relax, sleep) |
 
-## Step Four
+## Step 3.2
 # Product Concept Bins
 
 | Concept 1: Smart Eco Light | Concept 2: Pro-Control Modular Light | Concept 3: Ambient Mood Light | Spare Parts Bin |
