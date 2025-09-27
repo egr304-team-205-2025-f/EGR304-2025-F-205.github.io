@@ -148,5 +148,6 @@ For each user need and product requirement, brainstorm 5 different product featu
 ![Figure #2](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202%20panel.png)
 
 ## Product Concept 3 sketch
+![Figure #3](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%203.png)
 
 ## Documentation of our work can be found in Appendix - Design Ideation
