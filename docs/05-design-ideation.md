@@ -65,6 +65,17 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product should automatically turn off after a set duration |              light detection              | Device shuts off if sufficient natural light is detected |
 | Product should automatically turn off after a set duration |              scheduled off timer              | Allows users to set specific times for the device to turn off each day|
 | Product should automatically turn off after a set duration |              auto dim              | Device will slowly dim after prolonged inactivity |
+| Device setup should be quick and easy |              switch/button              | Device works immediately after being powered on, with no complex configuration required. |
+| Device setup should be quick and easy |              guided setup              | Step by step instructions to walk user through setup with visuals |
+| Device setup should be quick and easy |              One-Button Pairing              | easily pairs with other units with a single button and no complex pairing |
+| Device setup should be quick and easy |              Pre-Configured Presets              | Comes with default lighting modes so the device can be used without customization.|
+| Device setup should be quick and easy |              QR code instructions              | Includes a scannable code on the device or packaging that opens a simple, mobile-friendly setup guide instantly. |
+| Product should perform reliably |              self-diagnostic              | Periodically checks internal components and alerts the user of maintenance needs. |
+| Product should perform reliably |              fail-safe mode              | If a specific feature fails, the device switches to a basic operational mode to ensure continued core functionality. |
+| Product should perform reliably |              stable power regulation              | Built-in voltage regulation prevents performance drops due to inconsistent power supply or battery drain |
+| Product should perform reliably |              firmware auto update              | Ensures that the device always runs the latest stable software version to fix bugs and enhance reliability over time |
+| Product should perform reliably |              component redundancy              | Critical systems have backup elements to maintain functionality if one component fails. |
+
 
 
 
