@@ -59,6 +59,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Automatic Activation     | ⭐ Motion sensor; ⭐ Scheduled   | Touch sensor; Audio; Light sensor            | Smart Auto-On Suite — motion + light + scheduling |
 | Customizable Lighting    | ⭐ Tunable LED; ⭐ RGB LED       | Night light mode; Adjustable lights; Panels  | Adaptive Lighting Modes — presets (focus, relax, sleep) |
 
+## Step Four
+# Product Concept Bins
+
+| Concept 1: Smart Eco Light | Concept 2: Pro-Control Modular Light | Concept 3: Ambient Mood Light | Spare Parts Bin |
+|-----------------------------|--------------------------------------|--------------------------------|-----------------|
+| **Brightness:** Light sensor, Memory function  <br> **Multi-Unit:** Wireless sync  <br> **Battery & Power:** Solar charging, Low power mode, Power-saving components  <br> **Portability:** Handle/clip  <br> **Auto Activation:** Motion sensor, Light sensor  <br> **Custom Lighting:** Night light mode | **Brightness:** Adjustable brightness, Touchscreen, Auto dimming  <br> **Multi-Unit:** App control, Main unit hub, Remote controlled  <br> **Battery & Power:** High capacity battery, Battery health display, Swappable batteries  <br> **Portability:** Foldable stand, Rechargeable, Suction base  <br> **Auto Activation:** Scheduled activation, Touch sensor  <br> **Custom Lighting:** RGB LED, Adjustable lights, Tunable LED | **Brightness:** Auto dimming, Memory function  <br> **Multi-Unit:** Signal relay, Wireless sync  <br> **Battery & Power:** Rechargeable, Low power mode  <br> **Portability:** Handle/clip, Swappable batteries  <br> **Auto Activation:** Audio sensor, Motion sensor  <br> **Custom Lighting:** RGB LED, Mechanical panels, Tunable LED, Night light mode | **Brightness:** Touchscreen (alternative use)  <br> **Multi-Unit:** Remote controlled (expansion idea)  <br> **Battery:** Battery health display (repurpose)  <br> **Custom Lighting:** Adjustable lights, Mechanical panels (rework possible) |
 
 Add your different product concepts stuff here
 
