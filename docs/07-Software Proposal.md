@@ -4,54 +4,15 @@ title: Software Proposal
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+As seen in figure #1 this page is dedicated to demonstrate how we propose our code. We plan on using the sensor boards to read their respective sensors and to then send a determined value to the central board. Within the central board there are user input controls that will also affect the Light board along with the information gathered from the sensor boards. Once the central board determines the input it will send a corasponding response to the Light board. As the Light board recives the information it will output on to the LEDs depending on the information that the board is being sent. 
 
-## Research Question
+## UML Activity Diagram
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+![Figure #1](docs\image\diagram.png)
 
-## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
+In conclusion to our reaserch and project development we believe we have designed a product that has meet our inital product requirements. This also complies with the requriments set up by our EGR 304 class. 
 
 
