@@ -8,10 +8,12 @@ As seen in figure #1 this page is dedicated to demonstrate how we propose our co
 
 The software was set up to separate sensing, control, and output for clarity and reliability across the entire system. The modular design of our system makes it easier to maintain and ensures it meets the hands-free lighting design requirement by automatically responding to detected motion or sound without manual user input.
 
+A direct link to the source file of the following block diagram can be found [here](docs/image/Software Proposal.drawio).
+
 
 ## UML Activity Diagram
 
-![Figure #1](docs\image\diagram.png)
+![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/Software%20Proposal.drawio.png?raw=true)
 
 
 ## Conclusions and Future Work
