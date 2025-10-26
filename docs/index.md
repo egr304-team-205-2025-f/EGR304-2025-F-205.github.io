@@ -5,10 +5,10 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Birhgt Light<br>
+<font size="8">Bright Light<br>
 <font size="5">Team 205<br>
 **Start: September, 14, 2025**<br>
-**Submission: September, 15, 2025**<br>
+**Submission: October, 26, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>

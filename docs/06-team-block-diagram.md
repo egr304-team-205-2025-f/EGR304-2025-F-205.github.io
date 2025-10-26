@@ -9,4 +9,4 @@ This project consists of four interconnected boards that work together to create
 
 ## Overall Block Diagram
 
-![image caption](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/hubdiagram.drawio.png?raw=true)
+![image caption](docs\image\hubdiagram.drawio.png)
