@@ -11,7 +11,6 @@ This phase of our product design focused on developing a wide range of features 
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
@@ -170,4 +169,4 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ![Figure #3](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/panel%203.png?raw=true)
 
-## Documentation of our work can be found in Appendix - Design Ideation
+## Documentation of our work and final design selection processes can be found in Appendix - Design Ideation
