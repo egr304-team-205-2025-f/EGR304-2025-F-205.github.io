@@ -23,7 +23,7 @@ This team was formed in the fall semester of EGR 304 2025. Each member worked on
 
 
 ## Project Introduction
-Our project is a hands-free lighting system that is powered by four interconnected PCBs designed for smart and automated light control. The overall  system includes a sound detection board and a motion detection board, each responsible for sensing environmental triggers such as claps or movement. When either sensor detects activity, it sends a signal to a central control board, which processes the inputs and determines whether to activate or deactivate the lighting. The light board then receives the control signal and turns the light on or off accordingly, providing an efficient, user-friendly, and contactless lighting solution ideal for homes, offices, or other spaces.
+Our project is a hands-free lighting system that is powered by four interconnected PCBs designed for smart and automated light control. The overall  system includes a sound detection board and a brightness detection board, each responsible for sensing environmental triggers such as claps or when it's night time. When either sensor detects activity, it sends a signal to a central control board, which processes the inputs and determines whether to activate or deactivate the lighting. The light board then receives the control signal and turns the light on or off accordingly, providing an efficient, user-friendly, and contactless lighting solution ideal for homes, offices, or other spaces.
 
 
 ## Team Members Datasheet links
