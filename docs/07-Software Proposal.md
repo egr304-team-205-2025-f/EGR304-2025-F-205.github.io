@@ -13,7 +13,7 @@ A direct link to the source file of the following block diagram can be found [he
 
 ## UML Activity Diagram
 
-![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/Software%20ProposalUpdated.drawio.png)
+![Figure 1](image/Software%20ProposalUpdated.drawio.png)
 
 
 ## Conclusions and Future Work
