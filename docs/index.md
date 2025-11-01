@@ -8,7 +8,7 @@ tags:
 <font size="8">Sound and Motion Activated Light<br>
 <font size="5">Team 205<br>
 **Start: September, 14, 2025**<br>
-**Submission: October, 26, 2025**<br>
+**Submission: October, 31, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
