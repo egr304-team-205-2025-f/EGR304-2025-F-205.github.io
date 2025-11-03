@@ -14,3 +14,8 @@ We structured the block diagram by dividing the system into each PCB, Input/Outp
 ![image caption](image/hubdiagramUpdated.drawio.png)
 
 The source file for the following block diagram can be found [here](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/releases/download/blockdiagram/hubdiagram.drawio).
+
+
+|        Connector #   |      From        |       To        |     Short Description                        |   Type of Signal  |
+| :------------------: | :--------------: | :-------------: | :------------------------------------------: | :---------------: |
+| Connector 1          |   Sound Board    |    Hub Board    |  Sending Digital signal (please check)       |        AC         |
