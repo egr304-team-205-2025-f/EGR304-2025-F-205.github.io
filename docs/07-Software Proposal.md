@@ -20,7 +20,3 @@ A direct link to the source file of the following block diagram can be found [he
 
 In conclusion to our reaserch and project development we believe we have designed a product that meets our inital product requirements that we identified. It also complies with the requriments set up by our EGR 304 class. 
 
-
-|        Connector #   |      From        |       To        |     Short Description                        |   Type of Signal |
-| :------------------: | :--------------: | :-------------: | :------------------------------------------: |:---------------: |
-| Connector 1          |   Sound Board    |    Hub Board    |  Sending Digital signal (please check)       |       AC         |

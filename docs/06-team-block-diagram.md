@@ -18,4 +18,5 @@ The source file for the following block diagram can be found [here](https://gith
 
 |        Connector #   |      From        |       To        |     Short Description                        |   Type of Signal  |
 | :------------------: | :--------------: | :-------------: | :------------------------------------------: | :---------------: |
-| Connector 1          |   Sound Board    |    Hub Board    |  Sending Digital signal (please check)       |        AC         |
+| Connector 3:2          |   Sound Board    |    Hub Board    |  Triger for light      |        DC         |
+| Connector 1:5          |   Night Sensor    |    Hub Board    |  Tiger for light       |        DC         |
