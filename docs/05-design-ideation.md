@@ -11,7 +11,6 @@ This phase of our product design focused on developing a wide range of features 
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
@@ -170,4 +169,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ![Figure #3](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/panel%203.png?raw=true)
 
-## Documentation of our work can be found in Appendix - Design Ideation
+
+To move forward with our project, we selected the most important ideas from our initial design concepts and combined them into a comprehensive product. We considered key design requirements, including hands-free operation, durability, energy efficiency, and user-friendliness. From our concepts, we retained motion sensing and compactness, and enhanced functionality by adding audio detection to automatically turn the light on and off. This approach allowed us to create a hybrid design that balances practicality, convenience, and innovation.
+
+
+During the ideation phase, our concepts focused primarily on motion-based activation for hands-free operation. After further consideration, we decided to enhance the system’s responsiveness by adding an audio sensor to detect specific sounds, such as clapping, for turning the light on and off. This update deviates from the initial concepts by combining motion and sound detection to create a more versatile and user-friendly system. The decision was guided by our goal to simplify daily interactions, improve accessibility, and increase automation, while maintaining compactness, energy efficiency, and overall system reliability.
+
+
+## Documentation of our work and final design selection processes can be found in Appendix - Design Ideation
