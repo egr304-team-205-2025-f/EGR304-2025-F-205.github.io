@@ -11,12 +11,20 @@ We structured the block diagram by dividing the system into each PCB, Input/Outp
 
 ## Overall Block Diagram
 
-![Figure 1](image/Team%20205%20Egr304.png)
+![Figure 1](image\hubdiagram.drawio.png)
 
 The source file for the following block diagram can be found [here](https://app.diagrams.net/#G1p7TDof-kBIDls-BMGx75dPDWvmFWUAvf#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D).
 
 
-|        Connector #   |      From        |       To        |     Short Description                        |   Type of Signal  |
-| :------------------: | :--------------: | :-------------: | :------------------------------------------: | :---------------: |
-| Connector 3:2          |   Sound Board    |    Hub Board    |  Triger for light      |        DC         |
-| Connector 1:5          |   Night Sensor    |    Hub Board    |  Tiger for light       |        DC         |
+|        Connector #   |      From        |       To        |     Short Description                 |   Type of Signal  |
+| :------------------: | :--------------: | :-------------: | :-----------------------------------: | :---------------: |
+| Connector 1:1          |   Night sensor |    Hub Board    |  indication status if light/dark      |        DC         |
+| Connector 1:7          |   Hub          |    Night Sensor |  5v power                             |        DC         |
+| Connector 1:8          |   Hub          |    Night Sensor |  Ground                               |        DC         |
+| Connector 2:1          |   Hub          |    Light        |  light on/off                         |        DC         |
+| Connector 2:2          |   Light        |    Hub          |  Status of light                      |        DC         |
+| Connector 2:7          |   Hub          |    light        |  5v power                             |        DC         |
+| Connector 2:7          |   Hub          |    light        |  ground                               |        DC         |
+| Connector 3:2          |   Sound        |    Hub Board    |  indication of sound trigger          |        DC         |
+| Connector 3:7          |   Hub          |    Sound        |  5v power                             |        DC         |
+| Connector 3:8          |   Hub          |    Sound        |  Ground                               |        DC         |
