@@ -11,7 +11,7 @@ We structured the block diagram by dividing the system into each PCB, Input/Outp
 
 ## Overall Block Diagram
 
-![image caption](image\Team 205 Egr304.drawio.png)
+![image caption](docs\image\Team 205 Egr304.drawio.png)
 
 The source file for the following block diagram can be found [here](https://app.diagrams.net/#G1p7TDof-kBIDls-BMGx75dPDWvmFWUAvf#%7B%22pageId%22%3A%22D7A3hRXi8sjnXgM3Vncy%22%7D).
 
