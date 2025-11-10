@@ -13,7 +13,7 @@ tags:
 
 3.As a team we plan to compartmentalize the assignments to share the load
 
-4.As a team we plan to be in open cominication to ensure that we complete the full assignment
+4.As a team we plan to be in open communication to ensure that we complete the full assignment
 
 5.As a team we plan to produce a device with human-friendly functionality
 
