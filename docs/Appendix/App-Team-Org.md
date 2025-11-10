@@ -23,7 +23,6 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Dario Solis Alvarez |  Instagram Group Chat | Text | Call |
 |Arianna Lazaritt |  Instagram group chat | Text | Email |
 |Sam Burns |  Instagram Group chat |  Text | Email |
 |Sam Mangus |  Instagram group chat | Text | Email |
@@ -45,25 +44,24 @@ _**Appendix Table 2**: Weekly Availability_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | - | - | D | - | - | - | - |
-| 10:00 AM | - | A, S | D | D, A | D | - | - |
-| 11:00 AM | - | A, S | D | D, A | D | A | - |
-| 12:00 PM | - | A, S | D | A, S | D | A | - |
-| 1:00 PM | - | - | D, A, SB, S | - | D, A, SB, S | A | - |
-| 2:00 PM | - | - | D, A, SB, S | - | D, A, SB, S | A | - |
-| 3:00 PM | - | - | D, A, SB, S | D, S | D, A, SB, S | A | - |
-| 4:00 PM | - | - | D, A, SB, S | D, S | D, A, SB, S | A | - |
-| 5:00 PM | - | - | D, A, SB, S | D, S | D, A, SB, S | A | - |
-| 6:00 PM | - | SB, S | D, A, SB | D, SB | D, A, SB, S | A | - |
-| 7:00 PM | - | SB, S | D, A, SB | D, SB |  D, A, SB, S | A | - |
-| 8:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
-| 9:00 PM | - | SB | D, A, SB | D, SB |  D, A, SB | A | - |
+| 9:00 AM | - | - |  | - | - | - | - |
+| 10:00 AM | - | A, S | - |  A | - | - | - |
+| 11:00 AM | - | A, S | - |  A | - | A | - |
+| 12:00 PM | - | A, S | - | A, S | - | A | - |
+| 1:00 PM | - | - |  A, SB, S | - |  A, SB, S | A | - |
+| 2:00 PM | - | - |  A, SB, S | - |  A, SB, S | A | - |
+| 3:00 PM | - | - |  A, SB, S |  S |  A, SB, S | A | - |
+| 4:00 PM | - | - |  A, SB, S |  S |  A, SB, S | A | - |
+| 5:00 PM | - | - |  A, SB, S |  S |  A, SB, S | A | - |
+| 6:00 PM | - | SB, S |  A, SB |  SB |  A, SB, S | A | - |
+| 7:00 PM | - | SB, S |  A, SB |  SB |   A, SB, S | A | - |
+| 8:00 PM | - | SB |  A, SB |  SB |   A, SB | A | - |
+| 9:00 PM | - | SB |  A, SB |  SB |   A, SB | A | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 |  | :------: |
-| Dario | D |
 | Arianna | A |
 | Sam Burns | SB|
 | Sam Mangus | S |
@@ -78,7 +76,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader <br> **_Dario Solis Alvarez_**    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting leader <br>     | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder <br> **_Sam Burns_** | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader <br> **_Sam Mangus_** | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor <br> **_Arianna Lazaritt_**  | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
@@ -104,8 +102,7 @@ If conflict arises, we will first try to resolve it within the team by discussin
 
 
 ## Signatures
-
-_Dario Solis Alvarez_ 
+ 
 
 _Arianna Lazaritt_ 
 
