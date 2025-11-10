@@ -22,6 +22,6 @@ The source file for the following block diagram can be found [here](https://gith
 | Connector 1:1          |   Night sensor |    Hub Board    |  indication status if light/dark      |        DC         |
 | Connector 1:7          |   Hub          |    Night Sensor |  5v power                             |        DC         |
 | Connector 1:8          |   Hub          |    Night Sensor |  Ground                               |        DC         |
-| Connector 3:2          |   Sound        |    Hub Board    |  indication of sound trigger          |        DC         |
-| Connector 3:7          |   Hub          |    Sound        |  5v power                             |        DC         |
-| Connector 3:8          |   Hub          |    Sound        |  Ground                               |        DC         |
+| Connector 2:2          |   Sound        |    Hub Board    |  indication of sound trigger          |        DC         |
+| Connector 2:7          |   Hub          |    Sound        |  5v power                             |        DC         |
+| Connector 2:8          |   Hub          |    Sound        |  Ground                               |        DC         |
