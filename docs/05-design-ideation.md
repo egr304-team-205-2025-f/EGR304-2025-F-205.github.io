@@ -170,3 +170,5 @@ To move forward with our project, we selected the most important ideas from our 
 
 
 During the ideation phase, our concepts focused primarily on motion and sound based activation for hands-free operation. After further consideration, we decided to enhance the system’s responsiveness by emphasizing the integration an audio sensor to detect specific sounds, such as clapping, for turning the light on and off. The sensors will spin when idle, and then stop moving once the light is turned on. This update deviates from the initial concepts by combining brightness and sound detection to create a more versatile and user-friendly system. The decision was guided by our goal to simplify daily interactions, improve accessibility, and increase automation, while maintaining compactness, energy efficiency, and overall system reliability.
+
+The CAD generated design concepts can be found [here](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/releases/download/designconcepts/design.concepts.zip).
