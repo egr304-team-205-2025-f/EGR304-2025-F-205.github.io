@@ -1,5 +1,5 @@
 ---
-title: Software Proposal
+title: Software Design
 ---
 
 ## Introduction
