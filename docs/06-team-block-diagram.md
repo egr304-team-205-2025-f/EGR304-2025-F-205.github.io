@@ -25,3 +25,19 @@ The source file for the following block diagram can be found [here](https://gith
 | Connector 2:2          |   Sound        |    Hub Board    |  indication of sound trigger          |        GPIO         |
 | Connector 2:7          |   Hub          |    Sound        |  5v power                             |        DC         |
 | Connector 2:8          |   Hub          |    Sound        |  Ground                               |        GND         |
+
+
+**Message Structure Design**
+
+Our team designed the message structure between the three interconnected boards to prioritize simplicity, reliability, and real-time responsiveness. Each sensor board sends a dedicated digital trigger signal to the central Input/Output board via fixed pins on an 8-pin ribbon cable, eliminating the need for complex communication protocols. Shared ground and regulated power lines maintain signal integrity, while asynchronous, event-driven signaling allows the Input/Output board to react immediately to sensor inputs without constant polling. This clear, modular approach ensures efficient communication, easy troubleshooting, and future scalability.
+
+**5 Biggest Changes to Software Design Since Proposal**
+1.
+
+2.
+
+3.
+
+4.
+
+5.
