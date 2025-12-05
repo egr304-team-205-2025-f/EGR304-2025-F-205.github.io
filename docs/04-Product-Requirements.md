@@ -34,30 +34,47 @@ The new product design will be based on that of typical sound-activated automati
 
  **Product Design**
 
-   * 1.1 The product shall be easy to recognize as a high quality and highly practical lighting solution given its many was to mount it on a wide range of surfaces. (P10)
+   * 1.1 The product shall be easy to recognize as a high quality and highly practical lighting solution for various different applications (P10)
    * 1.2 The product shall remain compact and robust to function continously without performance degradation (P8)
    * 1.3 The components within the device will not break or deteriorate (P8)
    * 1.4 The product shall have simple design and have various mounting solutions on the back of the product. (P6)
    * 1.5 The system shall remain usable during power fluctuations without user confusion. (P5)
+   * 1.6 The enclosure will protect electronics from environmental conditions if it is to be used outside (P4)
 
   
  **Functionality**
 
    * 2.1 The product shall incorporate external buttons for immediate control. (P10)
    * 2.2 The product shall detect an external cue to trigger the light. (P10)
-   * 2.3 The product shall consider current light conditions to conserve energy. (P8)
-   * 2.4 The system will be able to avoid false triggers of its sensors. (P8)
-   * 2.5 The product will incorporate two methods of being able to active the sensors (P6)
-   * 2.6 The product shall turn off after a set period which can be adjusted by the user. (P5)
+   * 2.3 Sensors within the product shal respond instantly with no delays. (P9)
+   * 2.4 The product shall consider current light conditions to conserve energy. (P8)
+   * 2.5 The system will be able to avoid false triggers of its sensors. (P8)
+   * 2.6 The product will have an "idle" scanning mode to conserve energy. (P6)
+   * 2.7 The product shall turn off after a set period which can be adjusted by the user. (P5)
 
      
 **User Interaction**
 
    * 3.1 The product will be usable by consumers of varying degrees of mobility. (P10)
-   * 3.2 The product shall haveindicators to communicate system status such as active listening mode, sensor activation, or light activation. (P9)
+   * 3.2 The product shall have visual indicators to communicate system status with users, such as active listening mode, sensor activation, or light activation. (P9)
    * 3.3 Users shall be able to adjust sensitivity of both the sound and brightness detection subsystems. (P7)
    * 3.4 The product will allow users to configure the duration for which the light remains active. (P6)
    * 3.5 Users shall be able to adjust the brightness of the light when it is on. (P6)
+
+
+**Manufacturing**
+
+   * 4.1 Major subsytems within the device will remain modular for testing and replacment. (P9)
+   * 4.2 Any mechanicl configuration to be done by users will remain simple and straightforward. (P6)
+   * 4.3 ubsytems within the product shall fail independently (if at all) to maintain maximum operation. (P4)
+
+**Safety**
+
+   * 5.1 The product shall operate under 5V to avoid potential overheating and other electrical hazards. (P10)
+   * 5.2 The system shall remain stable under continuous operation without mechanical hazards (P10)
+   * 5.3 The product shall have an enclosure to protect users from any exposed electrical contacts using proper enclosure design (P7)
+
+
 
 ## Open Questions
 
