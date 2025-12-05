@@ -304,6 +304,8 @@ The user needs were then ranked in the following order of importance:
 6. Cost (brown)
 7. Compatibility with other appliances (red)
 
+A more detailed insight as to how we grouped and ranked these user needs can be found in the [Appendix - Design Ideation](https://egr304-team-205-2025-f.github.io/EGR304-2025-F-205.github.io/Appendix/another-subfile/).
+
 ![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/after%20ranking.png?raw=true)
 
 <!-- (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
