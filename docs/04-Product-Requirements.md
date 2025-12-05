@@ -7,7 +7,7 @@ tags:
 
 ## Project Objective
 
-This project aims to develop a sound-actuated automatic lighting system that will respond to specific audio cues to turn lights on and off. Using audio detection will create a convenient hands-free experience for users, allowing for more enhanced lighting across various environments, such as homes, offices, and other workspaces. It will also feature brightness detection to keep the light off if the area is already bright, improving energy efficiency while maintaining effectiveness and simplicity. The system also incorporates a rotating motorized platform on the light board that continuously scans the surrounding area until a valid signal is received, at which point the motor stops and the light activates in a fixed direction. It will be designed to be easy to install and interact with, allowing users with limited technical experience to operate and benefit from the product.
+This project aims to develop a sound-actuated automatic lighting system that will respond to specific audio cues to turn lights on and off. Using audio detection will create a convenient hands-free experience for users, allowing for more enhanced lighting across various environments, such as homes, offices, and other workspaces. It will also feature brightness detection to keep the light off if the area is already bright, improving energy efficiency while maintaining effectiveness and simplicity. It will be designed to be easy to install and interact with, allowing users with limited technical experience to operate and benefit from the product.
 
 ## Stakeholders
 
