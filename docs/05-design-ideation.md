@@ -150,30 +150,23 @@ This phase of our product design focused on developing a wide range of features 
 ## Step 3.2
 # Product Concept Bins
 
-| Concept 1: Smart Eco Light | Concept 2: Pro-Control Modular Light | Concept 3: Ambient Mood Light | Spare Parts Bin |
-|-----------------------------|--------------------------------------|--------------------------------|-----------------|
-| **Brightness:** Light sensor, Memory function  <br> **Multi-Unit:** Wireless sync  <br> **Battery & Power:** Solar charging, Low power mode, Power-saving components  <br> **Portability:** Handle/clip  <br> **Auto Activation:** Motion sensor, Light sensor  <br> **Custom Lighting:** Night light mode | **Brightness:** Adjustable brightness, Touchscreen, Auto dimming  <br> **Multi-Unit:** App control, Main unit hub, Remote controlled  <br> **Battery & Power:** High capacity battery, Battery health display, Swappable batteries  <br> **Portability:** Foldable stand, Rechargeable, Suction base  <br> **Auto Activation:** Scheduled activation, Touch sensor  <br> **Custom Lighting:** RGB LED, Adjustable lights, Tunable LED | **Brightness:** Auto dimming, Memory function  <br> **Multi-Unit:** Signal relay, Wireless sync  <br> **Battery & Power:** Rechargeable, Low power mode  <br> **Portability:** Handle/clip, Swappable batteries  <br> **Auto Activation:** Audio sensor, Motion sensor  <br> **Custom Lighting:** RGB LED, Mechanical panels, Tunable LED, Night light mode | **Brightness:** Touchscreen (alternative use)  <br> **Multi-Unit:** Remote controlled (expansion idea)  <br> **Battery:** Battery health display (repurpose)  <br> **Custom Lighting:** Adjustable lights, Mechanical panels (rework possible) |
+| Concept 1: Smart Eco Light | Concept 2: Pro-Control Modular Light | Concept 3: Ambient Mood Light | 
+|-----------------------------|--------------------------------------|--------------------------------|
+| Dual Activation: Responds to claps, short vocal commands, or motion in the environment. <br> Portable Installation: Battery-powered, no wiring needed. <br> Adjustable Brightness: Users can set illumination levels for different rooms or tasks. | Directional Detection: Tracks motion to point the light where it’s needed. <br> Rotating/Pivoting Head: Adjusts in real-time to user movement. <br> Hands-Free Operation: No need for manual switching or sound cues.| Gesture Recognition: Hands-free activation using waving or simple movements. <br> Ambient/Night Sensor: Prevents unnecessary activation, saving energy. <br> Responsive & Intuitive: Quickly reacts to gestures for immediate illumination. |
 
 ## Product Concept 1 sketch
 ![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%201.png?raw=true)
 
-![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/panel%201.png?raw=true)
 
 ## Product Concept 2 sketch
 ![Figure #1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202.png?raw=true)
 
-![Figure #2](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%202%20panel.png?raw=true)
-
 ## Product Concept 3 sketch
 ![Figure #3](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/concept%203.png?raw=true)
 
-![Figure #3](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/panel%203.png?raw=true)
 
 
-To move forward with our project, we selected the most important ideas from our initial design concepts and combined them into a comprehensive product. We considered key design requirements, including hands-free operation, durability, energy efficiency, and user-friendliness. From our concepts, we retained motion sensing and compactness, and enhanced functionality by adding audio detection to automatically turn the light on and off. This approach allowed us to create a hybrid design that balances practicality, convenience, and innovation.
+To move forward with our project, we selected the most important ideas from our initial design concepts and combined them into a comprehensive product. We considered key design requirements, including hands-free operation, energy efficiency, and user-friendliness. We selected what we determined to be key aspects of each design and combined them into one final product. This approach allowed us to create a hybrid design that balances practicality, convenience, and innovation.
 
 
-During the ideation phase, our concepts focused primarily on motion-based activation for hands-free operation. After further consideration, we decided to enhance the system’s responsiveness by adding an audio sensor to detect specific sounds, such as clapping, for turning the light on and off. This update deviates from the initial concepts by combining motion and sound detection to create a more versatile and user-friendly system. The decision was guided by our goal to simplify daily interactions, improve accessibility, and increase automation, while maintaining compactness, energy efficiency, and overall system reliability.
-
-
-## Documentation of our work and final design selection processes can be found in Appendix - Design Ideation
+During the ideation phase, our concepts focused primarily on motion and sound based activation for hands-free operation. After further consideration, we decided to enhance the system’s responsiveness by emphasizing the integration an audio sensor to detect specific sounds, such as clapping, for turning the light on and off. The sensors will spin when idle, and then stop moving once the light is turned on. This update deviates from the initial concepts by combining brightness and sound detection to create a more versatile and user-friendly system. The decision was guided by our goal to simplify daily interactions, improve accessibility, and increase automation, while maintaining compactness, energy efficiency, and overall system reliability.
