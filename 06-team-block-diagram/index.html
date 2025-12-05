@@ -704,8 +704,8 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>This project consists of four interconnected boards that work together to create a light level and audio activated lighting system. Each board features its own microcontroller and either a sensor or actuator. One board detects loud sounds using a microphone and op-amp, sending a digital signal to the input/output board. The Night Sensor board uses an photo resistor sensor to detect light level and also sends a signal to the input/output. The input/output board acts as the central hub, processing inputs from both sensor boards and deciding when to activate the lighting. This board also uses a motor to pivot the sensor boards to act like a radar. A separate board controls the lights based on the command received from the input/output board. This board also uses a speaker to notify the user that the light is on or off. The boards are connected as shown using 8-pin ribbon cables, with shared ground and assigned signal lines for efficient communication.</p>
-<p>We structured the block diagram by dividing the system into each PCB, Input/Output, Sound, Light Sensor, and Lights, each containing its own microcontroller to simplify development and improve reliability. This design supports hands-free operation through motion and audio sensors. The clear separation and standardized connectors ensure compactness and easy integration, meeting our previously defined product requirements.</p>
+<p>This project consists of three interconnected boards that work together to create a light level and audio activated lighting system. Each board features its own microcontroller and either a sensor or actuator. One board detects loud sounds using a microphone and op-amp, sending a digital signal to the input/output board. The Night Sensor board uses an photo resistor sensor to detect light level and also sends a signal to the input/output. The input/output board acts as the central hub, processing inputs from both sensor boards and deciding when to activate the lighting. This board also uses a motor to pivot the sensor boards to act like a radar. This board also controls the lights based on the data received from the night sensor and sound detection boards. The boards are connected as shown using 8-pin ribbon cables, with shared ground and assigned signal lines for efficient communication.</p>
+<p>We structured the block diagram by dividing the system into each PCB, Control, Sound, Light Sensor, each containing its own microcontroller to simplify development and improve reliability. This design supports hands-free operation through motion and audio sensors. The clear separation and standardized connectors ensure compactness and easy integration, meeting our previously defined product requirements.</p>
 <h2 id="overall-block-diagram">Overall Block Diagram</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/hubdiagram.drawio.png?raw=true" data-desc-position="bottom"><img alt="Figure 1" src="https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/hubdiagram.drawio.png?raw=true"></a></p>
 <p>The source file for the following block diagram can be found <a href="https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/releases/download/blockdiagram/hubdiagram.drawio">here</a>.</p>
@@ -725,7 +725,7 @@
 <td style="text-align: center;">Night sensor</td>
 <td style="text-align: center;">Hub Board</td>
 <td style="text-align: center;">indication status if light/dark</td>
-<td style="text-align: center;">DC</td>
+<td style="text-align: center;">GPIO</td>
 </tr>
 <tr>
 <td style="text-align: center;">Connector 1:7</td>
@@ -739,14 +739,14 @@
 <td style="text-align: center;">Hub</td>
 <td style="text-align: center;">Night Sensor</td>
 <td style="text-align: center;">Ground</td>
-<td style="text-align: center;">DC</td>
+<td style="text-align: center;">GND</td>
 </tr>
 <tr>
 <td style="text-align: center;">Connector 2:2</td>
 <td style="text-align: center;">Sound</td>
 <td style="text-align: center;">Hub Board</td>
 <td style="text-align: center;">indication of sound trigger</td>
-<td style="text-align: center;">DC</td>
+<td style="text-align: center;">GPIO</td>
 </tr>
 <tr>
 <td style="text-align: center;">Connector 2:7</td>
@@ -760,7 +760,7 @@
 <td style="text-align: center;">Hub</td>
 <td style="text-align: center;">Sound</td>
 <td style="text-align: center;">Ground</td>
-<td style="text-align: center;">DC</td>
+<td style="text-align: center;">GND</td>
 </tr>
 </tbody>
 </table>
