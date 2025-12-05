@@ -7,8 +7,8 @@ tags:
 <center>
 <font size="8">Sound and Motion Activated Light<br>
 <font size="5">Team 205<br>
-**Start: September, 14, 2025**<br>
-**Submission: October, 31, 2025**<br>
+**Start: September 14, 2025**<br>
+**Submission: December 8, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -23,7 +23,7 @@ This team was formed in the fall semester of EGR 304 2025. Each member worked on
 
 
 ## Project Introduction
-Our project is a hands-free lighting system that is powered by four interconnected PCBs designed for smart and automated light control. The overall  system includes a sound detection board and a brightness detection board, each responsible for sensing environmental triggers such as claps or when it's night time. When either sensor detects activity, it sends a signal to a central control board, which processes the inputs and determines whether to activate or deactivate the lighting. The light board then receives the control signal and turns the light on or off accordingly, providing an efficient, user-friendly, and contactless lighting solution ideal for homes, offices, or other spaces.
+Our project is a hands-free lighting system that is powered by three interconnected PCBs designed for smart and automated light control. The overall  system includes a sound detection board and a brightness detection board, each responsible for sensing environmental triggers such as claps or when it's night time. When either sensor detects activity, it sends a signal to a central control board, which processes the inputs and determines whether to activate or deactivate the lighting.  The light board then receives the control signal and turns the light on or off accordingly, and also spins continously on a motor, which stops when a signal is received from the brightness or sound detection boards. This provides an efficient, user-friendly, and contactless lighting solution ideal for homes, offices, or other spaces.
 
 
 ## Team Members Datasheet links
