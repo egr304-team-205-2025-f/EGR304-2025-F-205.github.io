@@ -34,29 +34,30 @@ The new product design will be based on that of typical sound-activated automati
 
  **Product Design**
 
-   * 1.1 The product shall be visually easy to distinguish from existing lighting systems as well as main competitors which can be various motion activated lights that are battery powered. (P10)
-   * 1.2 The product shall be easy to recognize as a high quality and highly practical lighting solution given its many was to mount it on a wide range of surfaces. (P10)
-   * 1.3 The product shall avoid styling elements from our other lighting solutions such as the thin exterior plastic that often makes the product feel very cheap. (P8)
-   * 1.4 The product shall have simple design with having mechanical buttons while keeping the various mounting solutions on the back of the product. (P8)
+   * 1.1 The product shall be easy to recognize as a high quality and highly practical lighting solution given its many was to mount it on a wide range of surfaces. (P10)
+   * 1.2 The product shall remain compact and robust to function continously without performance degradation (P8)
+   * 1.3 The components within the device will not break or deteriorate (P8)
+   * 1.4 The product shall have simple design and have various mounting solutions on the back of the product. (P6)
+   * 1.5 The system shall remain usable during power fluctuations without user confusion. (P5)
 
   
  **Functionality**
 
-   * 2.1 The product shall incorporate external buttons for immediate controll. (P10)
-   * 2.2 The product shall offer a microphone looking for specific audio inputs to tricker the light. (P10)
-   * 2.3 The product shall have a customizable mounting system to accommodate various mounting systems. (P9)
-   * 2.4 The product shall have a rechargeable battery system. (P10)
-   * 2.5 The product shall turn off after a set period which can be adjusted by the user. (P5)
+   * 2.1 The product shall incorporate external buttons for immediate control. (P10)
+   * 2.2 The product shall detect an external cue to trigger the light. (P10)
+   * 2.3 The product shall consider current light conditions to conserve energy. (P8)
+   * 2.4 The system will be able to avoid false triggers of its sensors. (P8)
+   * 2.5 The product will incorporate two methods of being able to active the sensors (P6)
+   * 2.6 The product shall turn off after a set period which can be adjusted by the user. (P5)
 
+     
+**User Interaction**
 
-
-## Requirement Criteria Specifications
-
-* 1.1.1 - Utalize Type-C charging for universal use with an onboard power regulator to 5.0 V.
-* 1.1.2 - Rechargable lithim ion battery with a minimum capacity of 10,000 mHa.
-* 1.1.3 - Tactile pull buttons, with clear graphics demontrating what the buttons are used for.
-* 1.2.1 - Built in magnets on adjustable "legs" of the product.
-* 1.2.2 - Various adaptors for mounting to different surfaces.  
+   * 3.1 The product will be usable by consumers of varying degrees of mobility. (P10)
+   * 3.2 The product shall haveindicators to communicate system status such as active listening mode, sensor activation, or light activation. (P9)
+   * 3.3 Users shall be able to adjust sensitivity of both the sound and brightness detection subsystems. (P7)
+   * 3.4 The product will allow users to configure the duration for which the light remains active. (P6)
+   * 3.5 Users shall be able to adjust the brightness of the light when it is on. (P6)
 
 ## Open Questions
 
