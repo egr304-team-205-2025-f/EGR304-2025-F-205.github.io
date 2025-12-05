@@ -32,7 +32,8 @@ The source file for the following block diagram can be found [here](https://gith
 Our team designed the message structure between the three interconnected boards to prioritize simplicity, reliability, and real-time responsiveness. Each sensor board sends a dedicated digital trigger signal to the central Input/Output board via fixed pins on an 8-pin ribbon cable, eliminating the need for complex communication protocols. Shared ground and regulated power lines maintain signal integrity, while asynchronous, event-driven signaling allows the Input/Output board to react immediately to sensor inputs without constant polling. This clear, modular approach ensures efficient communication, easy troubleshooting, and future scalability.
 
 **5 Biggest Changes to Software Design Since Proposal**
-1.
+
+1. We changed from sending an analog audio signal to the control board to sending a simple digital high/low trigger from the audio board. This reduces processing complexity on the control board and improves signal reliability by clearly indicating when a sound event occurs.
 
 2.
 
