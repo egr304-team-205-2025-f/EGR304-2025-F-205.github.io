@@ -33,3 +33,7 @@ Our project is a hands-free lighting system that is powered by three interconnec
 | Sam Burns              | [suburns.github.io](https://suburns05.github.io/suburns.github.io/) |
 | Arianna Lazaritt               | [alazaritt.github.io](https://alazaritt.github.io/alazaritt.github.io/) |
 | Sam Mangus                | [SamMangus.github.io](https://SamMangus.github.io/) |
+
+
+## Final Image of Project
+![Figure 1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/Final%20project.png?raw=true)
