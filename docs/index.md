@@ -36,4 +36,4 @@ Our project is a hands-free lighting system that is powered by three interconnec
 
 
 ## Final Image of Project
-![Figure 1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/Final%20project.png?raw=true)
+![Figure 1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/final%20project.png?raw=true)
