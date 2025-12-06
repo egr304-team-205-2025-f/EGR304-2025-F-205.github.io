@@ -1,5 +1,7 @@
 Resources: Add team images, videos, and CAD, if applicable, to this page.
 
-You should include at least one final image of your team's system.
+## Final Image of Team System
+
+![figure1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/final%20project.png?raw=true)
 
 If you have videos documenting your final system working, upload them to youtube and embed the resulting html directly in your markdown document.
