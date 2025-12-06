@@ -20,10 +20,10 @@ The source file for the following block diagram can be found [here](https://gith
 |        Connector #   |      From        |       To        |     Short Description                 |   Type of Signal  |
 | :------------------: | :--------------: | :-------------: | :-----------------------------------: | :---------------: |
 | Connector 1:1          |   Night sensor |    Hub Board    |  indication status if light/dark      |        GPIO         |
-| Connector 1:7          |   Hub          |    Night Sensor |  5v power                             |        DC         |
+| Connector 1:7          |   Hub          |    Night Sensor |  5v power                             |        I/O         |
 | Connector 1:8          |   Hub          |    Night Sensor |  Ground                               |        GND         |
 | Connector 2:2          |   Sound        |    Hub Board    |  indication of sound trigger          |        GPIO         |
-| Connector 2:7          |   Hub          |    Sound        |  5v power                             |        DC         |
+| Connector 2:7          |   Hub          |    Sound        |  5v power                             |        I/O         |
 | Connector 2:8          |   Hub          |    Sound        |  Ground                               |        GND         |
 
 
@@ -35,10 +35,10 @@ Our team designed the message structure between the three interconnected boards 
 
 1. We changed from sending an analog audio signal to the control board to sending a simple digital high/low trigger from the audio board. This reduces processing complexity on the control board and improves signal reliability by clearly indicating when a sound event occurs.
 
-2.
+2. We implemented fine motor control, including directional control, an emergency stop, and a full system debug mode. These additions were necessary for the central board to meet the product specifications.
 
-3.
+3. We revised the sensor input hierarchy so that the motor only operates when the room is dark, and the light activates only when the room is dark and a trigger sound is detected.
 
-4.
+4. We removed the need for environmental calibration on the devices. During testing, calibration caused delays in functionality and did not realistically fit within the scope of the revisions we were able to complete in the limited time remaining.
 
-5.
+5. Unfortunately, due to unforeseen personal circumstances, one of our teammates had to withdraw from the course, requiring us to restructure our code. As a result, the output board was removed, and its logic is now handled directly by the central input/output board.
