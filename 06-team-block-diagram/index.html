@@ -15,7 +15,7 @@
         <link rel="prev" href="../05-design-ideation/">
       
       
-        <link rel="next" href="../07-Software%20Proposal/">
+        <link rel="next" href="../07-Software%20Design/">
       
       
       <link rel="icon" href="../static/logo304.png">
@@ -304,7 +304,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../07-Software%20Proposal/" class="md-tabs__link">
+      <a href="../07-Software%20Design/" class="md-tabs__link">
         
   
     
@@ -601,7 +601,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../07-Software%20Proposal/" class="md-nav__link">
+      <a href="../07-Software%20Design/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -665,10 +665,6 @@
       
         
           
-        
-      
-        
-      
         
       
         
@@ -806,7 +802,7 @@
 <td style="text-align: center;">Hub</td>
 <td style="text-align: center;">Night Sensor</td>
 <td style="text-align: center;">5v power</td>
-<td style="text-align: center;">DC</td>
+<td style="text-align: center;">I/O</td>
 </tr>
 <tr>
 <td style="text-align: center;">Connector 1:8</td>
@@ -827,7 +823,7 @@
 <td style="text-align: center;">Hub</td>
 <td style="text-align: center;">Sound</td>
 <td style="text-align: center;">5v power</td>
-<td style="text-align: center;">DC</td>
+<td style="text-align: center;">I/O</td>
 </tr>
 <tr>
 <td style="text-align: center;">Connector 2:8</td>
@@ -842,12 +838,22 @@
 <p>Our team designed the message structure between the three interconnected boards to prioritize simplicity, reliability, and real-time responsiveness. Each sensor board sends a dedicated digital trigger signal to the central Input/Output board via fixed pins on an 8-pin ribbon cable, eliminating the need for complex communication protocols. Shared ground and regulated power lines maintain signal integrity, while asynchronous, event-driven signaling allows the Input/Output board to react immediately to sensor inputs without constant polling. This clear, modular approach ensures efficient communication, easy troubleshooting, and future scalability.</p>
 <p><strong>5 Biggest Changes to Software Design Since Proposal</strong></p>
 <ol>
-<li>We changed from sending an analog audio signal to the control board to sending a simple digital high/low trigger from the audio board. This reduces processing complexity on the control board and improves signal reliability by clearly indicating when a sound event occurs.</li>
+<li>
+<p>We changed from sending an analog audio signal to the control board to sending a simple digital high/low trigger from the audio board. This reduces processing complexity on the control board and improves signal reliability by clearly indicating when a sound event occurs.</p>
+</li>
+<li>
+<p>We implemented fine motor control, including directional control, an emergency stop, and a full system debug mode. These additions were necessary for the central board to meet the product specifications.</p>
+</li>
+<li>
+<p>We revised the sensor input hierarchy so that the motor only operates when the room is dark, and the light activates only when the room is dark and a trigger sound is detected.</p>
+</li>
+<li>
+<p>We removed the need for environmental calibration on the devices. During testing, calibration caused delays in functionality and did not realistically fit within the scope of the revisions we were able to complete in the limited time remaining.</p>
+</li>
+<li>
+<p>Unfortunately, due to unforeseen personal circumstances, one of our teammates had to withdraw from the course, requiring us to restructure our code. As a result, the output board was removed, and its logic is now handled directly by the central input/output board.</p>
+</li>
 </ol>
-<p>2.</p>
-<p>3.</p>
-<p>4.</p>
-<p>5.</p>
 
 
 
@@ -903,7 +909,7 @@
         
         
           
-          <a href="../07-Software%20Proposal/" class="md-footer__link md-footer__link--next" aria-label="Next: Software Design">
+          <a href="../07-Software%20Design/" class="md-footer__link md-footer__link--next" aria-label="Next: Software Design">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
