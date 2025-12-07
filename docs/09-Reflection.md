@@ -1,6 +1,13 @@
-Reflection
+---
+title: Reflection
+tags:
+- tag1
+- tag2
+---
 
-Lessons Learned: As a team we quickly learened how to work together and finish eachothers work due to our diffirent schedules. As a team we learned how to systematicly sepreate tasks to share am,on the team because we did not feel it nessisary to lock our selves in roles that would unequally distrubute the work load. Together we reflected on class time to make game plans inorder to meet deadlines for this couse. We also would text in a group chat incase situations came up or to give status updates on where each teammmeber was at so we are all on the same page. 
+## Lessons Learned
+
+As a team we quickly learned how to work together and finish each other's work due to our different schedules. As a team we learned how to systematically separate tasks to share am,on the team because we did not feel it necessary to lock ourselves in roles that would unequally distribute the work load. Together we reflected on class time to make game plans in order to meet deadlines for this course. We also would text in a group chat in case situations came up or to give status updates on where each team member was at so we are all on the same page. Often, we would break down assignments into smaller, more manageable parts in order to complete assignments as thoroughly and comprehensively as possible. From the design review feedback, we learned how important clear documentation, communication, and diagrams are, especially when presenting our work to others who may not know the details of our system. Clear documentation makes it easier to debug and review errors because it lets us quickly backtrack through our design decisions and iterations, identify exactly where problems originated, and make changes without disrupting other parts of the system. 
 
 ## Recommendations for future students:
 
