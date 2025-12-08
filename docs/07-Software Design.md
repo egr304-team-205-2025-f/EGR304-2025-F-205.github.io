@@ -8,12 +8,12 @@ As seen in Figure 1, this page is dedicated to demonstrate how we run our code. 
 
 The software was set up to separate sensing, control, and output across each board for clarity and reliability across the entire system. The modular design of our system makes it easier to maintain and ensures it meets the hands-free lighting design requirement by automatically responding to detected motion or sound without manual user input.
 
-A direct link to the source file of the following block diagram can be found [here](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/releases/download/softwareproposal/Software.Proposal.drawio).
+A direct link to the source file of the following block diagram can be found [here](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/releases/download/softwareproposal/software.design.drawio).
 
 
 ## UML Activity Diagram
 
-![Figure 1](image/Software%20ProposalUpdated.drawio.png)
+![Figure 1](https://github.com/egr304-team-205-2025-f/EGR304-2025-F-205.github.io/blob/main/docs/image/software%20design.drawio.png?raw=true)
 
 
 ## Structure Decision Making Process
@@ -31,4 +31,4 @@ One of the most significant limitations of the current design is that each senso
 
 The motor control section could also benefit from a more advanced motor driver with built-in current sensing, thermal shutdown, and improved flyback protection to protect electronics and extend the product's lifespan. Feedback mechanisms could also be added to allow software to detect jams, overloads, or unsafe conditions. This would enhance safety, enable smarter control, and make the device more robust.
 
-Overall, Version 2.0 of the system would benefit from hardware upgrades that give the software more information, more control, and more efficiency. By improving sensor interfaces, motor control hardware, and communication methods, the software could evolve from a basic threshold-driven approach into a more intelligent and adaptive design that better supports long-term reliability and performance. 
+Version 2.0 of the system would benefit from hardware upgrades that give the software more information, more control, and more efficiency. By improving sensor interfaces, motor control hardware, and communication methods, the software could evolve from a basic threshold-driven approach into a more intelligent and adaptive design that better supports long-term reliability and performance. 
